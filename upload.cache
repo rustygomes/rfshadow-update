@@ -329,7 +329,7 @@
 /SpriteImage/common/item.spr.zip|db83fbd7e8a9404ba8676bcf86bba664
 /SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
 /SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
-/SpriteImage/common/main.spr.zip|f67af03b7d04980f47c9a3e1d4ab4238
+/SpriteImage/common/main.spr.zip|f1a73ad54eb1d3dfb607cecfd47eec9f
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
 /SpriteImage/common/mining.spr.zip|66a623d5ce33bb24b999f9d08dc4d3d4
 /SpriteImage/common/mouse.spr.zip|ef41025ccb02a9f82371101f2fcc7e2d
@@ -350,7 +350,7 @@
 /SpriteImage/common/pvp.spr.zip|568f4c9ea8b41ad27ff24dbb4e00f456
 /SpriteImage/common/shop.spr.zip|bdb9534a92c07709052c8c9b76a42cc8
 /SpriteImage/common/summon.spr.zip|eb975f9431f9ce913f0d153e2521c24a
-/SpriteImage/common/system.spr.zip|bb1f370e43b2b37336a5a10c6208f13e
+/SpriteImage/common/system.spr.zip|726bbc10cc92cd53c88c79d22a0f299f
 /SpriteImage/common/trade.spr.zip|35cd95571c47d336432091cafc09c700
 /SpriteImage/common/trunk.spr.zip|69f3f7bf8c4b0ad0fa2295aa271c8248
 /SpriteImage/common/tutorial.spr.zip|0bd1674b045b0b2ad06d7edae4515bb3
@@ -449,7 +449,7 @@
 /SpriteImage/en-gb/Launcher/scr_back.bmp.zip|595af112a70fe1a1992761a6dd182a54
 /SpriteImage/en-gb/Launcher/server_greeting_background.bmp.zip|61a9ec016f5a4a30253d30884e056792
 /SpriteImage/en-gb/Launcher/slider_bar.bmp.zip|2c8f828e6f46b033adb94875d38a0d04
-/SpriteImage/en-gb/common.spr.zip|734a5261040a295bc2172f59ea083f76
+/SpriteImage/en-gb/common.spr.zip|c361666477694a9ee113206378ca47e7
 /SpriteImage/en-gb/itemupgrade.spr.zip|b9eb74bf8d8c960e87a78d937ee6b277
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
 /SpriteImage/en-gb/login.spr.zip|c14303d5340cad14b58ae167556e3a36
