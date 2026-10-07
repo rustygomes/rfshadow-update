@@ -12,12 +12,12 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|a4ca91b3d1caa0c0ae03265d49cf1370
+/DataTable/Item.edf.zip|328a7a6deb6e3154fb320e582e38739d
 /DataTable/ItemCash.edf.zip|bddf192008c196032504e88cf8cd7adf
 /DataTable/ItemCombine.edf.zip|b77b312d6deb2b7199be32384806cb1a
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
 /DataTable/ItemSetEffect.edf.zip|251130b9e444e7d1553f05fb81a4704c
-/DataTable/ItemTimer.edf.zip|a98c694129a04187b6569bc0d53cf5d3
+/DataTable/ItemTimer.edf.zip|2c4e329da1a24ba3e86fb50e4bce783a
 /DataTable/KeyMap.dat.zip|bc5dbe3725e24859d77a21660006e4f7
 /DataTable/KeyMap_NKM.dat.zip|fcbfe00f9b7b84bb157a25d4e05ac744
 /DataTable/MAPDATA.DAT.bak_2026-09-25.zip|625038d89b07ba5c58767c9033dbcdcd
@@ -33,8 +33,8 @@
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
 /DataTable/Resource.edf.zip|2ac3aeaf67c40ab44b09d48dc7f54807
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
-/DataTable/SkillForce.edf.zip|859c596262513ff8c0c454233a8dc486
-/DataTable/Store.edf.zip|22e2295a94999e15310d5dd0a2314be8
+/DataTable/SkillForce.edf.zip|1bc58f1406a005fc79c59ae006047630
+/DataTable/Store.edf.zip|95e78114fffcd0a945a3aa7269fa035d
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
 /DataTable/WORLDMAPDATA.DAT.zip|5de8535c62c9da19a6ba1af25c067d42
@@ -81,7 +81,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|8d851aa0a8718d3c3f0e19bac340739f
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|a3d340c13d70b71a617f1678f1821bd6
+/DataTable/en-gb/NDItem.edf.zip|8141c76c87e6de1c3c5267828dba6606
 /DataTable/en-gb/NDItemCash.edf.zip|fc49e14041e837c8f81b989d870ac67d
 /DataTable/en-gb/NDLanguage.edf.zip|742112b4f17ed9dc32475729e689483b
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
@@ -89,7 +89,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|6aac6be0e49b9b0ef042b5d10c747a3b
 /DataTable/en-gb/NDSkillForce.edf.zip|e50669e24cb3de96cbf66f87a83d74af
-/DataTable/en-gb/NDStore.edf.zip|89da5ead05dca59c2e21b63e90379a04
+/DataTable/en-gb/NDStore.edf.zip|d29c7506590b2e6ffaf074629d63fab3
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
 /DataTable/en-gb/Quest.edf.zip|6339676576ea87b3bd9de3e2e66bafe8
