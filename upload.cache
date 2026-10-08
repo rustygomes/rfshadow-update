@@ -182,7 +182,7 @@
 /Map/Elan/Elan.ebp.zip|4aa3b3a8bebb93f2ee8d7a8704413ccb
 /Map/Sette/Sette.bsp.zip|b30456aaa334922e7589580326b6560c
 /Map/Sette/Sette.ebp.zip|630d744ac593cee417eb0a8406da32e0
-/Snooper.dll.zip|46985f25745440c23c72edb7df3fbc56
+/Snooper.dll.zip|b3ba52cd8bc3037a2209fa8078c4c257
 /Snooper/fastcombine.dat.zip|a45820865107076f3d5ed7ae588b12af
 /Snooper/font.ini.zip|b41ee99191c3b7af7bf1750597f22c47
 /Snooper/mod/7daylogin.ini.zip|0df0316b9ef0c10f117ce16e73c3e50d
@@ -190,7 +190,7 @@
 /Snooper/mod/boss_schedule.ini.zip|53567cfb57913c7d98fa07c4d402bb93
 /Snooper/mod/broadcast.ini.zip|677c43cc86b1a12fb0f8b6b96e0f8c4e
 /Snooper/mod/buffer.ini.zip|245dd4430e85de4ac632075416a4a588
-/Snooper/mod/cashpoint.ini.zip|3698103a80738b8a7a49ba9a64ce5e3a
+/Snooper/mod/cashpoint.ini.zip|90156df0cc82699dd7c61f3fae4cde1c
 /Snooper/mod/deathscreen.ini.zip|c4077226006cc583a585d60d08513103
 /Snooper/mod/discord.ini.zip|4b8c5c1d359c0d6ff8498655fa3796bb
 /Snooper/mod/enchant.ini.zip|bac23f5b76890aff7f033aa326198071
@@ -219,6 +219,7 @@
 /Snooper/socketitem.dat.zip|376f9eb5d5d165952487c77c2d8fe62b
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
 /SpriteImage/common/7DayLogin.spr.zip|4597cc1b38407c11f3427481d66cb013
+/SpriteImage/common/Etc.spr.zip|e38a00564b2cb5a94ca60b91cc53da27
 /SpriteImage/common/GuildSkills.spr.zip|0ee6c20aabf98f89ecf489123384a1e5
 /SpriteImage/common/ItemSockets.spr.zip|cfa1d886ca2efb263901d593807ae320
 /SpriteImage/common/Launcher/CountrySelect_bg.bmp.zip|9a754612d9f96b67fc7404ed0dcf20c9
