@@ -2,7 +2,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|972042fa62ab8895c9c43e7b74d5e179
+/DataTable/Character.edf.zip|cbb2d7cc24141a266bbf95a43708bcdb
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -12,9 +12,9 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|74261f22fef69f71e8f0ddeb281fe860
+/DataTable/Item.edf.zip|1d5c8f0cfde575134f838e36abb7a4de
 /DataTable/ItemCash.edf.zip|0e0035faeb875feefc7195a625937cf8
-/DataTable/ItemCombine.edf.zip|a1ab6a80e4a7a44df59198afbaf7487e
+/DataTable/ItemCombine.edf.zip|249ac5fd4de2197747e20a647c2bc24b
 /DataTable/ItemPremium.edf.zip|1ad9c98dd2db4e797c1190d96275c7e5
 /DataTable/ItemSetEffect.edf.zip|251130b9e444e7d1553f05fb81a4704c
 /DataTable/ItemTimer.edf.zip|6caa30c170d58c023152b1e8d164c4fb
@@ -79,9 +79,9 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|1a856f33fbbbb12bd463b8990860efd0
+/DataTable/en-gb/NDCharacter.edf.zip|0f2f24d6d0e797cbd3e0cb142b39e7f4
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
-/DataTable/en-gb/NDItem.edf.zip|74791f51198b230286e16210d8b59bb2
+/DataTable/en-gb/NDItem.edf.zip|c64d4cbe9914886047104af747335fc9
 /DataTable/en-gb/NDItemCash.edf.zip|880b40ce28a268708a218c9025208569
 /DataTable/en-gb/NDLanguage.edf.zip|004327170dac9ff688efd17ce962d53b
 /DataTable/en-gb/NDMap.edf.zip|88b2cfbaef469bd6188bf302d0910b9f
@@ -188,12 +188,12 @@
 /Map/bellato/bellato.ebp.zip|5bb304376e0cf03dc050a4aa7b3b3c9c
 /Snd/BGM/RF_Shadow_Theme.mp3.zip|6b0c6800cb05ec3bd316daad0dff3292
 /Snd/waveList.spt.zip|46912610b5bbd3e0fcbc955e3cdb45eb
-/Snooper.dll.zip|b3ba52cd8bc3037a2209fa8078c4c257
+/Snooper.dll.zip|14e8d55469c88f55e800834d1d87f516
 /Snooper/fastcombine.dat.zip|acf1afdd36468de352ccf9ef12ff9744
 /Snooper/font.ini.zip|b41ee99191c3b7af7bf1750597f22c47
-/Snooper/mod/7daylogin.ini.zip|0df0316b9ef0c10f117ce16e73c3e50d
+/Snooper/mod/7daylogin.ini.zip|f8f32ac997b64b2ff536dae9204bf722
 /Snooper/mod/aura.ini.zip|731356798d1fcac4fc1a4cb337d5abf9
-/Snooper/mod/boss_schedule.ini.zip|4b7403e075900e6d74b0017bd7f18cdd
+/Snooper/mod/boss_schedule.ini.zip|f3892c2d1377e18ce9182111a4ee73d1
 /Snooper/mod/broadcast.ini.zip|677c43cc86b1a12fb0f8b6b96e0f8c4e
 /Snooper/mod/buffer.ini.zip|245dd4430e85de4ac632075416a4a588
 /Snooper/mod/cashpoint.ini.zip|0b0585f2d89e9a3e8ec92b0028cabdd6
@@ -210,7 +210,7 @@
 /Snooper/mod/patriarch.ini.zip|7cd8fd17745b32d5e5f3a8fcaec0155d
 /Snooper/mod/potion.ini.zip|b89fa51b317d714f42fd580d2d23dd82
 /Snooper/mod/resources.ini.zip|cc940a452abe3684b11445f0fd3b0cb2
-/Snooper/mod/season_pass.ini.zip|a3cf75e38c2be8665969f15af3161da0
+/Snooper/mod/season_pass.ini.zip|d59725d7ef8c69d5c625f20ea5b44508
 /Snooper/mod/shop.ini.zip|1f78f2b9d93256bc35cd240e50b93bf5
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
 /Snooper/mod/system_message.ini.zip|83b5faa68087093964a005e56e2183a1
@@ -224,7 +224,7 @@
 /Snooper/readme.txt.zip|16c795fa1b9c35b82c685778148a14f5
 /Snooper/socketitem.dat.zip|f44ac3e0df4999a23d7213ee320601dc
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
-/SpriteImage/common/7DayLogin.spr.zip|4597cc1b38407c11f3427481d66cb013
+/SpriteImage/common/7DayLogin.spr.zip|6e40e89fa4813fbba6de0ba48562088a
 /SpriteImage/common/Etc.spr.zip|80f9f5a698352a917c3c3517b356ca4d
 /SpriteImage/common/GuildSkills.spr.zip|0ee6c20aabf98f89ecf489123384a1e5
 /SpriteImage/common/ItemSockets.spr.zip|cfa1d886ca2efb263901d593807ae320
@@ -319,10 +319,9 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|801dcf21586d33ac49b08f03e9d65d27
+/SpriteImage/common/Mods.spr.zip|5b1d7e54a190df96aabad10962b8066c
 /SpriteImage/common/News.spr.zip|457822bf8484b0d87d43ad7b768212b6
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
-/SpriteImage/common/SeasonPass.spr.zip|263669569bf86e665f08d10eb60991e3
 /SpriteImage/common/SecheduleBoss.spr.zip|09559ab032207d1adf05352e6e2945a4
 /SpriteImage/common/Transmutation.spr.zip|2ba8259a7ca93e2afdf223c591c6ed79
 /SpriteImage/common/UnitShop.spr.zip|6994ee05211edeeaa6f04ef44e7622e3
@@ -355,6 +354,7 @@
 /SpriteImage/common/oreproc.spr.zip|5f101c76d51f09fec6688b0a0b6063dd
 /SpriteImage/common/patriarch.spr.zip|4dcf44be466ed1369353b1ff9b7b52bc
 /SpriteImage/common/pvp.spr.zip|568f4c9ea8b41ad27ff24dbb4e00f456
+/SpriteImage/common/seasonpass.spr.zip|248d851ac4dff1c72741ca65d2f2b59d
 /SpriteImage/common/shop.spr.zip|bdb9534a92c07709052c8c9b76a42cc8
 /SpriteImage/common/summon.spr.zip|eb975f9431f9ce913f0d153e2521c24a
 /SpriteImage/common/system.spr.zip|726bbc10cc92cd53c88c79d22a0f299f
