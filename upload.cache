@@ -178,9 +178,13 @@
 /DataTable/ru-ru/cw.scp.zip|b4ce9aaf1d1609aa93be7d43685470a5
 /DataTable/ru-ru/font.ini.zip|e4a710856305cca4aa4c261454b004eb
 /DataTable/ru-ru/iua.dic.zip|64d55440d62673c80c8f265db30518ab
-/Effect/EffectEntity64.rpk.zip|f787ffe50a67aed3e57d1197208f663e
+/Effect/EffectEntity64.rpk.zip|860d14165d5afff1d4518613bba428f4
 /Effect/MagicSptList.spt.zip|7c38140aeb71230587d6a37915aa0cbe
 /Effect/effectfont.dds.zip|ae5feb6250a85380a0f330e3637f19b5
+/Effect/item_2/congratulations/congratulations_mag.spt.zip|913f0072b407dd0f4e1b3dcb28106f01
+/Effect/item_2/congratulations/src/congratulations/congratulations.r3e.zip|728bca0e72e3c5cb1af1f427855c0eae
+/Effect/item_2/congratulations/src/congratulations/congratulations.r3m.zip|afcd9bb76eeb6a86a10f83bacbc374c1
+/Effect/item_2/congratulations/src/congratulations/congratulations.r3t.zip|351f8843de555aec2263a7734ec28f9d
 /Map/Elan/Elan.BSP.zip|f500e7795f09e8640fa5d10774fb8c34
 /Map/Elan/Elan.ebp.zip|4aa3b3a8bebb93f2ee8d7a8704413ccb
 /Map/Sette/Sette.bsp.zip|b30456aaa334922e7589580326b6560c
