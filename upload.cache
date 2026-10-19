@@ -22,7 +22,7 @@
 /DataTable/KeyMap_NKM.dat.zip|fcbfe00f9b7b84bb157a25d4e05ac744
 /DataTable/MAPDATA.DAT.bak_2026-09-25.zip|625038d89b07ba5c58767c9033dbcdcd
 /DataTable/MAPDATA.DAT.zip|c1a194e94497e7b9cfb7ae1faa55de53
-/DataTable/Map.edf.zip|8a86564ec30282816e1a6a622c5d1169
+/DataTable/Map.edf.zip|33ef370f9903664ef73d32e5e550f02c
 /DataTable/MonsterScript.edf.zip|00721a9b2172032863766d3e19c3615c
 /DataTable/MsgEvent.edf.zip|bcfada5b930f4b621c30ca7b78c4691c
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
@@ -197,13 +197,17 @@
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3e.zip|5dc2dbcaa00e98e2a1e8c50d6d661b6c
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3m.zip|9f81d3edfc1b5be5e962de9e6cee3ae6
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3t.zip|da14fdbc29c7908b4ddb4b28cf44063b
+/Map/Elan/Elan.ebp.zip|3ea6351f6ea76bd641a4ca32092692d0
 /Map/Entity/shadow/logo/logo.r3e.zip|885bdb4c7356f89658f831e7799308c6
 /Map/Entity/shadow/logo/logo.r3m.zip|e5a8e2d064134dd5332289737b65452f
 /Map/Entity/shadow/logo/logo.r3t.zip|3a6861a56a2dfbda6b7aeede2e514065
 /Map/Entity/shadow/logo_chao/logo_chao.r3e.zip|42c163bf2f6adb3f3a39d92a087577d8
 /Map/Entity/shadow/logo_chao/logo_chao.r3m.zip|ae93209f85518c634dac336561dfb1a4
 /Map/Entity/shadow/logo_chao/logo_chao.r3t.zip|de34e6a63b1eea08ab021981198dad4c
-/Map/Sette/Sette.ebp.zip|3fac11f24c691b6a7161c5bafcf6bce5
+/Map/Entity/shadow/nova_logo_semfundo/nova_logo_semfundo.r3e.zip|a1c8ed14c87413d3ebeb369fb3f89043
+/Map/Entity/shadow/nova_logo_semfundo/nova_logo_semfundo.r3m.zip|d5f5b79d98bc96cf18929dff02f19ce6
+/Map/Entity/shadow/nova_logo_semfundo/nova_logo_semfundo.r3t.zip|aef5b93d3933b453c11ea285873fce91
+/Map/Sette/Sette.ebp.zip|bbf18da09963e029ba0e029b121d190f
 /Snd/BGM/Accretia_Base_00.mp3.zip|58e223c409b744e05955d1bfa1602560
 /Snd/BGM/Belato_Base_00.mp3.zip|ca1bb6724c944803f04ea5d54c751977
 /Snd/BGM/Cora_Base_00.mp3.zip|255e5fb33596596507d37bd67f1eb392
@@ -353,7 +357,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
-/SpriteImage/common/item.spr.zip|5220494d2cc066672c093b677d063282
+/SpriteImage/common/item.spr.zip|dff360ab94aa0889f8652384931aa546
 /SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
 /SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
 /SpriteImage/common/main.spr.zip|bada9679fdf2021cd6235faf6b2c5fd3
