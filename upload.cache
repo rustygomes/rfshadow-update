@@ -213,7 +213,8 @@
 /Snd/BGM/Cora_Base_00.mp3.zip|255e5fb33596596507d37bd67f1eb392
 /Snd/BGM/RF_Shadow_Theme.mp3.zip|7c1e31f034233476188b36c39feb5707
 /Snd/waveList.spt.zip|46912610b5bbd3e0fcbc955e3cdb45eb
-/Snooper.dll.zip|14e8d55469c88f55e800834d1d87f516
+/Snooper.dll.zip|358aacd04763233438bac45a023b6dc9
+/Snooper/enchantexplicit.dat.zip|66ec57ab0e62099871d616155c1e6dc9
 /Snooper/fastcombine.dat.zip|4cecc9869b1695b03fe7ab26d8985380
 /Snooper/font.ini.zip|b41ee99191c3b7af7bf1750597f22c47
 /Snooper/mod/7daylogin.ini.zip|f8f32ac997b64b2ff536dae9204bf722
@@ -224,7 +225,7 @@
 /Snooper/mod/cashpoint.ini.zip|0b0585f2d89e9a3e8ec92b0028cabdd6
 /Snooper/mod/deathscreen.ini.zip|c4077226006cc583a585d60d08513103
 /Snooper/mod/discord.ini.zip|4b8c5c1d359c0d6ff8498655fa3796bb
-/Snooper/mod/enchant.ini.zip|bac23f5b76890aff7f033aa326198071
+/Snooper/mod/enchant.ini.zip|183068abcc3c71851472d35490bd2876
 /Snooper/mod/gm.ini.zip|2730e2bafeddac2af104f6208d671aaa
 /Snooper/mod/guild.ini.zip|52726162b3f658e3200d997ac1bec40b
 /Snooper/mod/guild_skill.ini.zip|7e21eeb5025ff762360ee86d3c4f963f
@@ -238,8 +239,8 @@
 /Snooper/mod/season_pass.ini.zip|d59725d7ef8c69d5c625f20ea5b44508
 /Snooper/mod/shop.ini.zip|1f78f2b9d93256bc35cd240e50b93bf5
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
-/Snooper/mod/system_message.ini.zip|83b5faa68087093964a005e56e2183a1
-/Snooper/mod/tooltips.ini.zip|45c525adb93cbbe3573b1e8d00ea32b5
+/Snooper/mod/system_message.ini.zip|5be8f99ffd3347ccc7de14d1314b4b99
+/Snooper/mod/tooltips.ini.zip|1c5c0c237aecbeb96b8011c1f969f6fe
 /Snooper/mod/transaction.ini.zip|d36e35d0bac1b64ab91615995cf531d3
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
 /Snooper/mod/ui_globals.ini.zip|5986069dcf90ebd2296adad09e20282f
@@ -350,6 +351,7 @@
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
 /SpriteImage/common/Transmutation.spr.zip|2ba8259a7ca93e2afdf223c591c6ed79
 /SpriteImage/common/UnitShop.spr.zip|6994ee05211edeeaa6f04ef44e7622e3
+/SpriteImage/common/Upgrades.spr.zip|268337f5b7f1e1030e36031581a246fc
 /SpriteImage/common/class.spr.zip|041fed31f75aca3d3754ea4e57281e6d
 /SpriteImage/common/cribattle.spr.zip|0c56b11b5604f3bf00110be40673e74a
 /SpriteImage/common/dungeon.spr.zip|0d829676b5205162cf1701f0475c3cb8
