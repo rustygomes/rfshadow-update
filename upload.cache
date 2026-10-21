@@ -2,7 +2,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|cbb2d7cc24141a266bbf95a43708bcdb
+/DataTable/Character.edf.zip|8b00a1553fa191f3dfb1c85567624bba
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -79,12 +79,12 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|0f2f24d6d0e797cbd3e0cb142b39e7f4
+/DataTable/en-gb/NDCharacter.edf.zip|6ecb72b437ee66d4f5a6b8e70fbdc780
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
 /DataTable/en-gb/NDItem.edf.zip|caabadb2105ff25807e2ba76b47e2349
 /DataTable/en-gb/NDItemCash.edf.zip|880b40ce28a268708a218c9025208569
 /DataTable/en-gb/NDLanguage.edf.zip|004327170dac9ff688efd17ce962d53b
-/DataTable/en-gb/NDMap.edf.zip|28cfca4b9537478403b3c69824210f1a
+/DataTable/en-gb/NDMap.edf.zip|6bff3f357fab1b64e27a66a565066a9d
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|d6a50d0b60b0f5999efbdf9f96078742
@@ -362,7 +362,7 @@
 /SpriteImage/common/item.spr.zip|91360b72b905e34139ef4549213e0f12
 /SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
 /SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
-/SpriteImage/common/main.spr.zip|bada9679fdf2021cd6235faf6b2c5fd3
+/SpriteImage/common/main.spr.zip|56f3fe8d0a56ef3703e74eb872de813a
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
 /SpriteImage/common/mining.spr.zip|b4548f48e0d296f47fdb727f26347c5c
 /SpriteImage/common/mouse.spr.zip|ef41025ccb02a9f82371101f2fcc7e2d
