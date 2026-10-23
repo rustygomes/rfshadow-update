@@ -346,7 +346,7 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|c9e9100dfc1aeb7f4a2f8885e5e299c0
+/SpriteImage/common/Mods.spr.zip|aace7ee9e01bf15a66261854eb1cd4c7
 /SpriteImage/common/News.spr.zip|457822bf8484b0d87d43ad7b768212b6
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
@@ -361,8 +361,8 @@
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
 /SpriteImage/common/item.spr.zip|91360b72b905e34139ef4549213e0f12
-/SpriteImage/common/itemcombine.spr.zip|50418ec1e5e41b7424c7cf0c659c3767
-/SpriteImage/common/itemmake.spr.zip|e814248cb53dd5c7b9042af9bb26ee22
+/SpriteImage/common/itemcombine.spr.zip|6d9065589b44b590be055b9ac3a37bd1
+/SpriteImage/common/itemmake.spr.zip|f44ee189a15917b7ce3654c76020b934
 /SpriteImage/common/main.spr.zip|56f3fe8d0a56ef3703e74eb872de813a
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
 /SpriteImage/common/mining.spr.zip|b4548f48e0d296f47fdb727f26347c5c
@@ -380,6 +380,7 @@
 /SpriteImage/common/npc/cor_race_mgr.spr.zip|ec536bde843910f112a1c64289230a94
 /SpriteImage/common/npc/cor_sundries.spr.zip|30b7ffc5811198dfe65c8753a2d63ec6
 /SpriteImage/common/oreproc.spr.zip|5f101c76d51f09fec6688b0a0b6063dd
+/SpriteImage/common/owndev.spr.zip|fbf98f980a86acfa62be50101830521f
 /SpriteImage/common/patriarch.spr.zip|4dcf44be466ed1369353b1ff9b7b52bc
 /SpriteImage/common/pvp.spr.zip|568f4c9ea8b41ad27ff24dbb4e00f456
 /SpriteImage/common/seasonpass.spr.zip|5a008fda71565d53efa9522910e0b52e
@@ -485,7 +486,7 @@
 /SpriteImage/en-gb/Launcher/server_greeting_background.bmp.zip|61a9ec016f5a4a30253d30884e056792
 /SpriteImage/en-gb/Launcher/slider_bar.bmp.zip|2c8f828e6f46b033adb94875d38a0d04
 /SpriteImage/en-gb/common.spr.zip|795275bce5a0e5a5dc0d8c00525af56d
-/SpriteImage/en-gb/itemupgrade.spr.zip|b9eb74bf8d8c960e87a78d937ee6b277
+/SpriteImage/en-gb/itemupgrade.spr.zip|ae9dc44d328c353658799177ea271348
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
 /SpriteImage/en-gb/login.spr.zip|f362e59a57af0de43b96bd6b4a140a8a
 /SpriteImage/ru-ru/CashShop.spr.zip|b8986f87abf25adefefa7ef1e52bd36a
