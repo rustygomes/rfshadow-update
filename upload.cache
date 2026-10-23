@@ -2,7 +2,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|cf2901a1677a99c04eb6261513516a8a
+/DataTable/Character.edf.zip|4fa572af9931987acaaa4d5656db1fba
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|9f1158bdfd3204cf04d6e969a567790c
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -31,9 +31,9 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|596217246cd6956a48c9eee25041c012
+/DataTable/Resource.edf.zip|b1c00d0823c7c43a863cbed755f199b3
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
-/DataTable/SkillForce.edf.zip|498642d1f22826ae98d22c13d91220ba
+/DataTable/SkillForce.edf.zip|b61301f5457251708689852d616233c8
 /DataTable/Store.edf.zip|a92fc17545e94a3816240ff08da93524
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
@@ -79,7 +79,7 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|d27d2fcd8ebbf325ea060d183062726b
+/DataTable/en-gb/NDCharacter.edf.zip|261534331d1be65a84797f69f26db05c
 /DataTable/en-gb/NDEventShip.edf.zip|43ee4f8bfa68df5274575fe62ca53233
 /DataTable/en-gb/NDItem.edf.zip|85fccd89b90b3fc8383509683c88bb6c
 /DataTable/en-gb/NDItemCash.edf.zip|880b40ce28a268708a218c9025208569
@@ -88,7 +88,7 @@
 /DataTable/en-gb/NDMsgEvent.edf.zip|711c26de29943b58af762260a99c603b
 /DataTable/en-gb/NDMsgMonster.edf.zip|e9daef60b0b07f4bfce1f8a26cb9af9f
 /DataTable/en-gb/NDQuest.edf.zip|d6a50d0b60b0f5999efbdf9f96078742
-/DataTable/en-gb/NDSkillForce.edf.zip|71c8c8fed6df0a9842b215e5f092d0c0
+/DataTable/en-gb/NDSkillForce.edf.zip|45f37a436f185241a3f45d861a959b75
 /DataTable/en-gb/NDStore.edf.zip|0173a08d7f1faf97a0e6424cded45e80
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
@@ -180,7 +180,7 @@
 /DataTable/ru-ru/iua.dic.zip|64d55440d62673c80c8f265db30518ab
 /Effect/EffectEntity64.rpk.zip|860d14165d5afff1d4518613bba428f4
 /Effect/EffectEntityList.spt.zip|2f05a213568bb137d5358f173c984f81
-/Effect/MagicSptList.spt.zip|cbf94a7729bdf49e4d39e667b8aa35d1
+/Effect/MagicSptList.spt.zip|4ab7cda9e3ef852b26c8494fd41ba5c9
 /Effect/effectfont.dds.zip|ae5feb6250a85380a0f330e3637f19b5
 /Effect/item_2/Grade_up/Grade_up_mag.spt.zip|7fafc51f5f8416c6d085275769117e90
 /Effect/item_2/Grade_up/src/gradeup_title/gradeup_title.r3e.zip|a60854a5aa853e438550d33cc373db98
@@ -212,7 +212,7 @@
 /Snd/BGM/Belato_Base_00.mp3.zip|ca1bb6724c944803f04ea5d54c751977
 /Snd/BGM/Cora_Base_00.mp3.zip|255e5fb33596596507d37bd67f1eb392
 /Snd/BGM/RF_Shadow_Theme.mp3.zip|7c1e31f034233476188b36c39feb5707
-/Snd/waveList.spt.zip|c62333230757e16a5411e67c8cf97620
+/Snd/waveList.spt.zip|69a8fde2f780c551dafcc3f39ce97501
 /Snooper.dll.zip|0bff62287488ff5a3f61891f549ecd21
 /Snooper/enchant.dat.zip|7cf80e28c90dd7d057da53b1a6a6e608
 /Snooper/enchantexplicit.dat.zip|66ec57ab0e62099871d616155c1e6dc9
@@ -254,7 +254,7 @@
 /SpriteImage/common/7DayLogin.spr.zip|6e40e89fa4813fbba6de0ba48562088a
 /SpriteImage/common/Etc.spr.zip|861bfe2b11de1374b480d3c2a156f401
 /SpriteImage/common/GuildSkills.spr.zip|0ee6c20aabf98f89ecf489123384a1e5
-/SpriteImage/common/ItemSockets.spr.zip|cfa1d886ca2efb263901d593807ae320
+/SpriteImage/common/ItemSockets.spr.zip|92e2e30a6a3c0427d9154d1a57adb21b
 /SpriteImage/common/Launcher/CountrySelect_bg.bmp.zip|9a754612d9f96b67fc7404ed0dcf20c9
 /SpriteImage/common/Launcher/Thumbs.db.zip|6ad90ded6dbc47b80886e6664b8afa80
 /SpriteImage/common/Launcher/bt_country_Brazil_Normal.bmp.zip|a520c55344f38ada36e0f41a1a4deedc
@@ -346,13 +346,13 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|aace7ee9e01bf15a66261854eb1cd4c7
+/SpriteImage/common/Mods.spr.zip|fb3afbb72a723e3c42fba8d45c8046a1
 /SpriteImage/common/News.spr.zip|457822bf8484b0d87d43ad7b768212b6
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
 /SpriteImage/common/Transmutation.spr.zip|2ba8259a7ca93e2afdf223c591c6ed79
 /SpriteImage/common/UnitShop.spr.zip|6994ee05211edeeaa6f04ef44e7622e3
-/SpriteImage/common/Upgrades.spr.zip|ac6cfaa7d900dcaf92908ca9feb63863
+/SpriteImage/common/Upgrades.spr.zip|42fda9ef905c7fd0e42968b57d605de0
 /SpriteImage/common/class.spr.zip|041fed31f75aca3d3754ea4e57281e6d
 /SpriteImage/common/cribattle.spr.zip|0c56b11b5604f3bf00110be40673e74a
 /SpriteImage/common/dungeon.spr.zip|0d829676b5205162cf1701f0475c3cb8
@@ -361,7 +361,7 @@
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
 /SpriteImage/common/item.spr.zip|64e444d872f8e58cf3fede62ec173ae5
-/SpriteImage/common/itemcombine.spr.zip|7c5c0ac903e5c0a7029dfb63d4e6739b
+/SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
 /SpriteImage/common/itemmake.spr.zip|7879585c186822bcc81e733493e65ad8
 /SpriteImage/common/main.spr.zip|56f3fe8d0a56ef3703e74eb872de813a
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
@@ -485,7 +485,7 @@
 /SpriteImage/en-gb/Launcher/scr_back.bmp.zip|595af112a70fe1a1992761a6dd182a54
 /SpriteImage/en-gb/Launcher/server_greeting_background.bmp.zip|61a9ec016f5a4a30253d30884e056792
 /SpriteImage/en-gb/Launcher/slider_bar.bmp.zip|2c8f828e6f46b033adb94875d38a0d04
-/SpriteImage/en-gb/common.spr.zip|795275bce5a0e5a5dc0d8c00525af56d
+/SpriteImage/en-gb/common.spr.zip|3c4aaf973988e751c199a9c78cd4845d
 /SpriteImage/en-gb/itemupgrade.spr.zip|ae9dc44d328c353658799177ea271348
 /SpriteImage/en-gb/loading.spr.zip|db9a39a36838daa6ac36a543d47f7460
 /SpriteImage/en-gb/login.spr.zip|f362e59a57af0de43b96bd6b4a140a8a
