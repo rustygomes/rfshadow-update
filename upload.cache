@@ -1,3 +1,4 @@
+/Character/Player/Ani/ACRAA.RFS.zip|bedcf7b6118db2de529a0bc541dbcc34
 /DataTable/Apa.dic.zip|5f7a3ad695929b978a0d8572b4b9fa53
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
@@ -31,7 +32,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|b1c00d0823c7c43a863cbed755f199b3
+/DataTable/Resource.edf.zip|dd134dc10ea337c031e8d60dde43f376
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|b61301f5457251708689852d616233c8
 /DataTable/Store.edf.zip|a92fc17545e94a3816240ff08da93524
@@ -254,7 +255,7 @@
 /SpriteImage/common/7DayLogin.spr.zip|6e40e89fa4813fbba6de0ba48562088a
 /SpriteImage/common/Etc.spr.zip|861bfe2b11de1374b480d3c2a156f401
 /SpriteImage/common/GuildSkills.spr.zip|0ee6c20aabf98f89ecf489123384a1e5
-/SpriteImage/common/ItemSockets.spr.zip|92e2e30a6a3c0427d9154d1a57adb21b
+/SpriteImage/common/ItemSockets.spr.zip|1ca44e92b6b3197e6b6dc7cd123440a1
 /SpriteImage/common/Launcher/CountrySelect_bg.bmp.zip|9a754612d9f96b67fc7404ed0dcf20c9
 /SpriteImage/common/Launcher/Thumbs.db.zip|6ad90ded6dbc47b80886e6664b8afa80
 /SpriteImage/common/Launcher/bt_country_Brazil_Normal.bmp.zip|a520c55344f38ada36e0f41a1a4deedc
@@ -352,7 +353,7 @@
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
 /SpriteImage/common/Transmutation.spr.zip|2ba8259a7ca93e2afdf223c591c6ed79
 /SpriteImage/common/UnitShop.spr.zip|6994ee05211edeeaa6f04ef44e7622e3
-/SpriteImage/common/Upgrades.spr.zip|42fda9ef905c7fd0e42968b57d605de0
+/SpriteImage/common/Upgrades.spr.zip|212835eb56a0f6aeb66de5c2d1b973ec
 /SpriteImage/common/class.spr.zip|041fed31f75aca3d3754ea4e57281e6d
 /SpriteImage/common/cribattle.spr.zip|0c56b11b5604f3bf00110be40673e74a
 /SpriteImage/common/dungeon.spr.zip|0d829676b5205162cf1701f0475c3cb8
@@ -362,7 +363,7 @@
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
 /SpriteImage/common/item.spr.zip|64e444d872f8e58cf3fede62ec173ae5
 /SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
-/SpriteImage/common/itemmake.spr.zip|7879585c186822bcc81e733493e65ad8
+/SpriteImage/common/itemmake.spr.zip|3f469bb92ecbbdb2d0200a7e176180b4
 /SpriteImage/common/main.spr.zip|56f3fe8d0a56ef3703e74eb872de813a
 /SpriteImage/common/maploading.spr.zip|fdc88e1289902256f6144caf00fc66ee
 /SpriteImage/common/mining.spr.zip|b4548f48e0d296f47fdb727f26347c5c
