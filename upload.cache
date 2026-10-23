@@ -213,7 +213,8 @@
 /Snd/BGM/Cora_Base_00.mp3.zip|255e5fb33596596507d37bd67f1eb392
 /Snd/BGM/RF_Shadow_Theme.mp3.zip|7c1e31f034233476188b36c39feb5707
 /Snd/waveList.spt.zip|46912610b5bbd3e0fcbc955e3cdb45eb
-/Snooper.dll.zip|358aacd04763233438bac45a023b6dc9
+/Snooper.dll.zip|0bff62287488ff5a3f61891f549ecd21
+/Snooper/enchant.dat.zip|7cf80e28c90dd7d057da53b1a6a6e608
 /Snooper/enchantexplicit.dat.zip|66ec57ab0e62099871d616155c1e6dc9
 /Snooper/fastcombine.dat.zip|4cecc9869b1695b03fe7ab26d8985380
 /Snooper/font.ini.zip|b41ee99191c3b7af7bf1750597f22c47
@@ -245,10 +246,10 @@
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
 /Snooper/mod/ui_globals.ini.zip|5986069dcf90ebd2296adad09e20282f
 /Snooper/mod/ui_pos.ini.zip|97e8201364a27679f2cc7109952631d0
-/Snooper/mod/unmannedtrader.ini.zip|b19dae8e8d1413eb5d2b49f947870097
+/Snooper/mod/unmannedtrader.ini.zip|769690e9bc21b1a1d760b94756ecd28d
 /Snooper/pkg/direct3d9.pkg.zip|c53a5c774921831c783a7c0d1f44c9ce
 /Snooper/readme.txt.zip|16c795fa1b9c35b82c685778148a14f5
-/Snooper/socketitem.dat.zip|160ad80df3a9974c0b21ca8a5ff926eb
+/Snooper/socketitem.dat.zip|510ff036f13cc5ec85bc609a05b43f51
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
 /SpriteImage/common/7DayLogin.spr.zip|6e40e89fa4813fbba6de0ba48562088a
 /SpriteImage/common/Etc.spr.zip|861bfe2b11de1374b480d3c2a156f401
@@ -345,13 +346,13 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|ecbcb101ec8cb9f883f39867ec9a2364
+/SpriteImage/common/Mods.spr.zip|c9e9100dfc1aeb7f4a2f8885e5e299c0
 /SpriteImage/common/News.spr.zip|457822bf8484b0d87d43ad7b768212b6
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
 /SpriteImage/common/Transmutation.spr.zip|2ba8259a7ca93e2afdf223c591c6ed79
 /SpriteImage/common/UnitShop.spr.zip|6994ee05211edeeaa6f04ef44e7622e3
-/SpriteImage/common/Upgrades.spr.zip|268337f5b7f1e1030e36031581a246fc
+/SpriteImage/common/Upgrades.spr.zip|590670b629f1c7c701e2fe7989e69b2e
 /SpriteImage/common/class.spr.zip|041fed31f75aca3d3754ea4e57281e6d
 /SpriteImage/common/cribattle.spr.zip|0c56b11b5604f3bf00110be40673e74a
 /SpriteImage/common/dungeon.spr.zip|0d829676b5205162cf1701f0475c3cb8
@@ -381,7 +382,7 @@
 /SpriteImage/common/oreproc.spr.zip|5f101c76d51f09fec6688b0a0b6063dd
 /SpriteImage/common/patriarch.spr.zip|4dcf44be466ed1369353b1ff9b7b52bc
 /SpriteImage/common/pvp.spr.zip|568f4c9ea8b41ad27ff24dbb4e00f456
-/SpriteImage/common/seasonpass.spr.zip|248d851ac4dff1c72741ca65d2f2b59d
+/SpriteImage/common/seasonpass.spr.zip|5a008fda71565d53efa9522910e0b52e
 /SpriteImage/common/shop.spr.zip|bdb9534a92c07709052c8c9b76a42cc8
 /SpriteImage/common/summon.spr.zip|eb975f9431f9ce913f0d153e2521c24a
 /SpriteImage/common/system.spr.zip|726bbc10cc92cd53c88c79d22a0f299f
