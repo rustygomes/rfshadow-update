@@ -15,7 +15,7 @@
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
 /DataTable/Item.edf.zip|b75fc1cf38287639f728ab81f982c987
 /DataTable/ItemCash.edf.zip|2adba6b5cb434ff53168c795c3f1f43f
-/DataTable/ItemCombine.edf.zip|962b3fb66a2449f8ea562b38a4031ff8
+/DataTable/ItemCombine.edf.zip|0ba91528948e5f94b50119bf36dac972
 /DataTable/ItemPremium.edf.zip|93396a187cd83f418df688d5432090a6
 /DataTable/ItemSetEffect.edf.zip|4d003ff8cda5a8cf3fd43121abf45545
 /DataTable/ItemTimer.edf.zip|a141b5654cc9f26f5930fc41151ea706
@@ -243,7 +243,7 @@
 /Snd/BGM/Cora_Base_00.mp3.zip|255e5fb33596596507d37bd67f1eb392
 /Snd/BGM/RF_Shadow_Theme.mp3.zip|7c1e31f034233476188b36c39feb5707
 /Snd/waveList.spt.zip|69a8fde2f780c551dafcc3f39ce97501
-/Snooper.dll.zip|c2870dbd345b716419b49a1ee477076b
+/Snooper.dll.zip|3614a274122eb792e5f7923a8b6595b1
 /Snooper/enchant.dat.zip|7cf80e28c90dd7d057da53b1a6a6e608
 /Snooper/enchantexplicit.dat.zip|66ec57ab0e62099871d616155c1e6dc9
 /Snooper/fastcombine.dat.zip|4cecc9869b1695b03fe7ab26d8985380
@@ -264,14 +264,14 @@
 /Snooper/mod/item_sockets.ini.zip|5196f76e9b07475f37de863afb128368
 /Snooper/mod/monster_notification.ini.zip|61475657d8bdc87bff126c675ff246f3
 /Snooper/mod/normal_effects.ini.zip|087e081183253d3894b57576982eb25a
-/Snooper/mod/options.ini.zip|5a4a417485cd1c8909a9c43393db6962
+/Snooper/mod/options.ini.zip|fe3cdca64036d4a7743ccfa5ab181740
 /Snooper/mod/patriarch.ini.zip|7f567c5bb2e5730ab14af221919537d4
 /Snooper/mod/potion.ini.zip|b89fa51b317d714f42fd580d2d23dd82
 /Snooper/mod/resources.ini.zip|cc940a452abe3684b11445f0fd3b0cb2
 /Snooper/mod/season_pass.ini.zip|d59725d7ef8c69d5c625f20ea5b44508
 /Snooper/mod/shop.ini.zip|1f78f2b9d93256bc35cd240e50b93bf5
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
-/Snooper/mod/system_message.ini.zip|5be8f99ffd3347ccc7de14d1314b4b99
+/Snooper/mod/system_message.ini.zip|c7b71aeb07f4af09497980af59c4ef9d
 /Snooper/mod/tooltips.ini.zip|ac48571a269b69a407d134713d37dbb3
 /Snooper/mod/transaction.ini.zip|d36e35d0bac1b64ab91615995cf531d3
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
@@ -279,7 +279,7 @@
 /Snooper/mod/ui_pos.ini.zip|97e8201364a27679f2cc7109952631d0
 /Snooper/mod/unmannedtrader.ini.zip|769690e9bc21b1a1d760b94756ecd28d
 /Snooper/pkg/direct3d9.pkg.zip|c53a5c774921831c783a7c0d1f44c9ce
-/Snooper/radius.ini.zip|cfd6e34ff734b3f777adc04676d5b294
+/Snooper/radius.ini.zip|ab0aef18f743eadcd447c9dec42250cf
 /Snooper/readme.txt.zip|16c795fa1b9c35b82c685778148a14f5
 /Snooper/socketitem.dat.zip|510ff036f13cc5ec85bc609a05b43f51
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
