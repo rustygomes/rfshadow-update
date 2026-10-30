@@ -198,7 +198,18 @@
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3e.zip|5dc2dbcaa00e98e2a1e8c50d6d661b6c
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3m.zip|9f81d3edfc1b5be5e962de9e6cee3ae6
 /Effect/item_2/Grade_up/src/shadowlogo/logo.r3t.zip|da14fdbc29c7908b4ddb4b28cf44063b
-/Map/Elan/Elan.ebp.zip|3ea6351f6ea76bd641a4ca32092692d0
+/Map/Elan/Elan.BSP.zip|b95ba47ff909de909c024ede38b03e87
+/Map/Elan/Elan.ebp.zip|a21910f047c36262cfd77dca8b97ed96
+/Map/Elan/Elan.r3m.zip|255d8fc7c01a3b0bda0580e8f2915c8c
+/Map/Elan/Elan.r3t.zip|ae944bd5f49e1db56c6d00cd45e03a29
+/Map/Elan/ElanLgt.r3t.zip|caad5f67b42da579c964f196b46198d9
+/Map/Elan/Sky/elansky.r3e.zip|a0efc81c293a9a4eec722b9a3a776762
+/Map/Elan/Sky/elansky.r3m.zip|fae7b4868c1a8ca50f69e7daf5d09dc9
+/Map/Elan/Sky/elansky.r3t.zip|3c819878467feab1059ec68ffa88d1c4
+/Map/Elan/Sky2/elansky2.r3e.zip|8fae818d545e26df6232bbf645c44511
+/Map/Elan/Sky2/elansky2.r3m.zip|abe3c24aba869347122b9ef824517ea2
+/Map/Elan/Sky2/elansky2.r3t.zip|bbda879fb57a81f2ae3dd76a5dd15ae3
+/Map/Elan/elan.r3x.zip|f83181238845406b131d78cc4bfc6f74
 /Map/Entity/shadow/3d_cookies_christmas/3d_cookies_christmas.r3e.zip|d7d812098501385a7056f52f47c8240b
 /Map/Entity/shadow/3d_cookies_christmas/3d_cookies_christmas.r3m.zip|ad4fb10d547785db7c398a0fa797ca73
 /Map/Entity/shadow/3d_cookies_christmas/3d_cookies_christmas.r3t.zip|d28ec4066ba6303f065baec740e66af7
@@ -235,7 +246,24 @@
 /Map/Entity/shadow/teste_anim_v8/teste_anim_v8.r3e.zip|97648389b12c817fe610b407c4317935
 /Map/Entity/shadow/teste_anim_v8/teste_anim_v8.r3m.zip|4c2de833b4b9febaed52d57f4f560fd7
 /Map/Entity/shadow/teste_anim_v8/teste_anim_v8.r3t.zip|5dc2bc8f27561ad01d2e7b3870b93176
-/Map/Sette/Sette.ebp.zip|aa238c2bcc69b41da24e0cfa708d3e72
+/Map/Sette/Sette.bsp.zip|f5ec7ad2c9295318fe772ef267e987ed
+/Map/Sette/Sette.ebp.zip|774f10b4a9a305ef28106931e1db413b
+/Map/Sette/Sette.r3m.zip|2b4ddedbe422b5de24787408e1aaa81a
+/Map/Sette/Sette.r3t.zip|09de8b191a4a915b21a582642adc2a2d
+/Map/Sette/Sette.r3x.zip|90f388fdcd9f356e3c5dd4e3bfb7172a
+/Map/Sette/SetteLgt.r3t.zip|c6172c1d8afdd1eeead6352104db7b5f
+/Map/Sette/Sky/New folder/Settesky.r3e.zip|4865c40778371a7bc657f956459edb97
+/Map/Sette/Sky/New folder/Settesky.r3m.zip|27736ac32e219e0ed9d209b8a68a1cbe
+/Map/Sette/Sky/New folder/Settesky.r3t.zip|a2b1f8c9d83e6d0929a9b0ba01b197f4
+/Map/Sette/Sky/Settesky.r3e.zip|29519309b713d99da50a89ecebaf0140
+/Map/Sette/Sky/Settesky.r3m.zip|8040a695a9fd5977329a0096a221cb8e
+/Map/Sette/Sky/Settesky.r3t.zip|745e2f6377e4153116b645feba270905
+/Map/Sette/sky2/New folder/Settesky2.r3e.zip|d7d0fb234c6200c929df121cdebfd70c
+/Map/Sette/sky2/New folder/Settesky2.r3m.zip|8b6eb2769b3d56ef5f8eaeea370dedb2
+/Map/Sette/sky2/New folder/Settesky2.r3t.zip|197029c93c4686d24149d8c2674d287c
+/Map/Sette/sky2/Settesky2.r3e.zip|63ae6ca1997f836a3f4a6d1108cd189d
+/Map/Sette/sky2/Settesky2.r3m.zip|2ee4dbf2d628f19ac4e0ce361708811b
+/Map/Sette/sky2/Settesky2.r3t.zip|432acff737ef876963232c9bab3e8331
 /Map/neutralB/NeutralB.ebp.zip|64f0a194a740188854529d1a1f6e99e5
 /Map/neutralC/NeutralC.ebp.zip|870c4516450b27cd0c88762def36f9d0
 /Snd/BGM/Accretia_Base_00.mp3.zip|58e223c409b744e05955d1bfa1602560
