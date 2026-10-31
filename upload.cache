@@ -256,9 +256,10 @@
 /Chef/BLAZE/ELVEN_SHIELD.EFF.zip|9dd1bff4ba45728bb77e6c9fb723bedc
 /Chef/BLAZE/ambasadorA.EFF.zip|c661a6e143b64b332271fdb9650d39a4
 /Chef/BLAZE/ambasadorC.EFF.zip|73708d17bb3325dbaa91397cd9628625
-/Chef/EffectFileList.txt.zip|2439c03f8a4123b5247c38c00ced75c5
-/Chef/Entity.ini.zip|68d650e28461606fd35f96b50f3653f8
-/Chef/ItemEffectList.txt.zip|6d80285ad6ab66537ae435c3adb75d0d
+/Chef/EffectFileList.txt.zip|5af1947a80992745b0d634e77404d8a2
+/Chef/Entity.ini.zip|7296e5502c3e7b65b41ff7287aaabd0a
+/Chef/GuardTower.ini.zip|a69a0829c78617c11f0db1ac743d94c9
+/Chef/ItemEffectList.txt.zip|19a38fa50b3a277549ffc12b9a175703
 /Chef/MIRAEL/06122022/06122022.EFF.zip|cb608ef134b3174f3adbfe2b976a2c27
 /Chef/MIRAEL/06122022/KNIFE_00.spt.zip|ed4ae22695200669c2b7726fde06322e
 /Chef/MIRAEL/06122022/KNIFE_01.spt.zip|1594141893dd28f2783f9d64da4002b2
@@ -275,8 +276,11 @@
 /Chef/Mob/BELPHEGORGUARD/spkl/spkl.R3E.zip|d43cb278bc9b37027a204e62956a2987
 /Chef/Mob/BELPHEGORGUARD/spkl_1/spkl.R3E.zip|d43cb278bc9b37027a204e62956a2987
 /Chef/Mob01/narwindisil/nar_spr/Leg_00.R3E.zip|f51bb993dbb68e317b89c5b428bfd203
+/Chef/Monster.ini.zip|902f92b323661ac0c30e3a6646076f0a
+/Chef/Npc.ini.zip|f0f39cbefb0499159cd38b1a3bc12274
 /Chef/PVP_Item/PVP_KNIFE/781p/lvup.R3E.zip|3426f5aa3c785eb2cd64b49c6701a4d0
-/Chef/Particle.INI.zip|8cd7027c2d3e94d7d143357c55304651
+/Chef/Particle.INI.zip|8067931db019ce8ef0879f22ede39ce0
+/Chef/PatternList.txt.zip|3627d62b468edd34bb825d85df849c23
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|e3cb936dad7afb662e6ebc2ec45c6249
 /Chef/RH/EFF/Sovereign/Injure.EFF.zip|4bd5743e40276920a3d0420bbf83aa35
 /Chef/RH/EFF/Sovereign/Mask.EFF.zip|e77a6d66e4bc96353054582d01e0e947
@@ -812,6 +816,9 @@
 /Chef/Tex/recall_Scr_Y.dds.zip|e6d76ae77b01301f446348a168d82e9f
 /Chef/UP/W_UP/bow_l01/aura.R3E.zip|e8afdbb611555b51e4b1620961a4653d
 /Chef/UP/W_UP/bow_l02/aura.R3E.zip|e8afdbb611555b51e4b1620961a4653d
+/Chef/Unit.ini.zip|447e315b884c653346983d86ddead5c0
+/Chef/recall.ini.zip|7109e601ca0b862df06b4111f5e2bc04
+/Chef/siege.ini.zip|304eae44459c6ad95770990c96ea0085
 /DataTable/Apa.dic.zip|5f7a3ad695929b978a0d8572b4b9fa53
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
@@ -844,7 +851,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|5e95a01ea19b7ece66f6bdfbedadf102
+/DataTable/Resource.edf.zip|2ddefa25779d48e46e1c06eb7b8dca2e
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|7b006ffb25b050ee8f62b4d63171b556
 /DataTable/Store.edf.zip|71a992f3ae9190c0aa0c9c9b59710dd8
