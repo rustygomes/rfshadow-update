@@ -823,7 +823,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|3c3c06372bd4579cbd26078ebb129374
+/DataTable/Character.edf.zip|9039ab96f703f7107fb782aec7349862
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|cc899d8022187012f07b6d9536ebfc53
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -833,7 +833,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|4bb25822674b4be94f6596be385b0a95
+/DataTable/Item.edf.zip|6fa4787c347ba673a2304ef34c1c1a1f
 /DataTable/ItemCash.edf.zip|2adba6b5cb434ff53168c795c3f1f43f
 /DataTable/ItemCombine.edf.zip|0ba91528948e5f94b50119bf36dac972
 /DataTable/ItemPremium.edf.zip|93396a187cd83f418df688d5432090a6
@@ -851,7 +851,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|81daad493dc9d0964ef2de0c3bfcc002
+/DataTable/Resource.edf.zip|d513c80f347849471706fcafc4027e2f
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|7b006ffb25b050ee8f62b4d63171b556
 /DataTable/Store.edf.zip|71a992f3ae9190c0aa0c9c9b59710dd8
@@ -898,9 +898,9 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|3beae48265b0befb065db44678b0d9e7
+/DataTable/en-gb/NDCharacter.edf.zip|d7414174fa8a9e988ce34f9a036a0a1a
 /DataTable/en-gb/NDEventShip.edf.zip|a91097b377dcd610b2a7b072ef3954e4
-/DataTable/en-gb/NDItem.edf.zip|8dd3c73367daf17a227da79fe2cbf7fb
+/DataTable/en-gb/NDItem.edf.zip|d07eb06422a7088fcc7ce18d9d554271
 /DataTable/en-gb/NDItemCash.edf.zip|46db72b9df2cdc8b4b76f2f385417a8f
 /DataTable/en-gb/NDLanguage.edf.zip|83303b3c5d30f9f08d0c95807ad2b135
 /DataTable/en-gb/NDMap.edf.zip|dd582f665b0ac0f0de04d9bda11fd383
