@@ -256,10 +256,10 @@
 /Chef/BLAZE/ELVEN_SHIELD.EFF.zip|9dd1bff4ba45728bb77e6c9fb723bedc
 /Chef/BLAZE/ambasadorA.EFF.zip|c661a6e143b64b332271fdb9650d39a4
 /Chef/BLAZE/ambasadorC.EFF.zip|73708d17bb3325dbaa91397cd9628625
-/Chef/EffectFileList.txt.zip|5af1947a80992745b0d634e77404d8a2
+/Chef/EffectFileList.txt.zip|5f0e766f16ce888344b7a0340c27fdab
 /Chef/Entity.ini.zip|7296e5502c3e7b65b41ff7287aaabd0a
 /Chef/GuardTower.ini.zip|a69a0829c78617c11f0db1ac743d94c9
-/Chef/ItemEffectList.txt.zip|19a38fa50b3a277549ffc12b9a175703
+/Chef/ItemEffectList.txt.zip|22203bce4fd63c5ca11990e875418f99
 /Chef/MIRAEL/06122022/06122022.EFF.zip|cb608ef134b3174f3adbfe2b976a2c27
 /Chef/MIRAEL/06122022/KNIFE_00.spt.zip|ed4ae22695200669c2b7726fde06322e
 /Chef/MIRAEL/06122022/KNIFE_01.spt.zip|1594141893dd28f2783f9d64da4002b2
@@ -279,7 +279,7 @@
 /Chef/Monster.ini.zip|902f92b323661ac0c30e3a6646076f0a
 /Chef/Npc.ini.zip|f0f39cbefb0499159cd38b1a3bc12274
 /Chef/PVP_Item/PVP_KNIFE/781p/lvup.R3E.zip|3426f5aa3c785eb2cd64b49c6701a4d0
-/Chef/Particle.INI.zip|8067931db019ce8ef0879f22ede39ce0
+/Chef/Particle.INI.zip|b6b3652cfca8b5a6c734ff7a4e299e06
 /Chef/PatternList.txt.zip|3627d62b468edd34bb825d85df849c23
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|e3cb936dad7afb662e6ebc2ec45c6249
 /Chef/RH/EFF/Sovereign/Injure.EFF.zip|4bd5743e40276920a3d0420bbf83aa35
@@ -833,7 +833,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|6fa4787c347ba673a2304ef34c1c1a1f
+/DataTable/Item.edf.zip|b9478a12adb3843c97a2b0e2882bcf0e
 /DataTable/ItemCash.edf.zip|2adba6b5cb434ff53168c795c3f1f43f
 /DataTable/ItemCombine.edf.zip|0ba91528948e5f94b50119bf36dac972
 /DataTable/ItemPremium.edf.zip|93396a187cd83f418df688d5432090a6
@@ -900,7 +900,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|d7414174fa8a9e988ce34f9a036a0a1a
 /DataTable/en-gb/NDEventShip.edf.zip|a91097b377dcd610b2a7b072ef3954e4
-/DataTable/en-gb/NDItem.edf.zip|d07eb06422a7088fcc7ce18d9d554271
+/DataTable/en-gb/NDItem.edf.zip|942d749fba2948f69253f81005a3d978
 /DataTable/en-gb/NDItemCash.edf.zip|46db72b9df2cdc8b4b76f2f385417a8f
 /DataTable/en-gb/NDLanguage.edf.zip|83303b3c5d30f9f08d0c95807ad2b135
 /DataTable/en-gb/NDMap.edf.zip|dd582f665b0ac0f0de04d9bda11fd383
