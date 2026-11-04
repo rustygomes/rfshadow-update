@@ -12,7 +12,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|d1fc199a9c883235aee63d4ff95e71e9
+/DataTable/Item.edf.zip|457fa63e829f8e6a28d64a169f9e57d1
 /DataTable/ItemCash.edf.zip|47bab6616a5987737e87e85fcc189733
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -33,7 +33,7 @@
 /DataTable/Resource.edf.zip|6615fe5829f849523e8411bd782fca30
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|2e24e071baf587dac118aabff55906a6
-/DataTable/Store.edf.zip|fbc94df3a652eead056bd2f49fff4349
+/DataTable/Store.edf.zip|ee32bdc13edb01cc75ec0c7df3f949b2
 /DataTable/Transmog.EDF.zip|239c1d3e0aff4826a8e2bfb3de65afde
 /DataTable/UIHelp.edf.zip|15ead705448a8c643691ed38a405b273
 /DataTable/WORLDMAPDATA.DAT.zip|5de8535c62c9da19a6ba1af25c067d42
@@ -79,7 +79,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|20cd3aed782bbbfa9255c04359419556
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|4feba631cb0f52c01a2357df2ce032bb
+/DataTable/en-gb/NDItem.edf.zip|4063c03d62c479be54d50367ba014479
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|e3e77d42152f4f105ca60a342fb70ce1
@@ -87,7 +87,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|f54744ee0286e5d59c80eca4ec7fc49e
 /DataTable/en-gb/NDSkillForce.edf.zip|783d21564cf1b2e5dc7b9c58dcb9a36e
-/DataTable/en-gb/NDStore.edf.zip|ca76f6870ea383a9662b725b9e712777
+/DataTable/en-gb/NDStore.edf.zip|d9062cd320e68d242f36cef82d203282
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
 /DataTable/en-gb/Player.edf.zip|843c820cd2e23582e2fa440ca02a3b16
 /DataTable/en-gb/Quest.edf.zip|6339676576ea87b3bd9de3e2e66bafe8
@@ -402,7 +402,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
-/SpriteImage/common/item.spr.zip|4dc55d553836c052b8958c65c25e164b
+/SpriteImage/common/item.spr.zip|3f5c4b5a94722f9cccb93127b47eb50f
 /SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
 /SpriteImage/common/itemmake.spr.zip|ea0b0e2722f346f11b9d936005e1caf2
 /SpriteImage/common/main.spr.zip|a86399249bbeed7115e8862908e328e1
