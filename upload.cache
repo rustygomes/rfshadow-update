@@ -1,3 +1,11 @@
+/Character/Player/Mesh/BELFEMALE_ARMOR_UPPER_L48.MSH.zip|47d1cfbf222f4b7f1503c4d8c2c0901e
+/Character/Player/Mesh/BELFEMALE_ARMOR_UPPER_R48.MSH.zip|264298a147301a2c4ce08124aa20b72a
+/Character/Player/Mesh/BELMALE_ARMOR_UPPER_L48.MSH.zip|306ad893402e87adb8f97132304de15d
+/Character/Player/Mesh/BELMALE_ARMOR_UPPER_R48.MSH.zip|b2e58d1fc48dc1dcd44b0ca00b25078f
+/Character/Player/Tex/BELFEMALE_ARMOR_UPPER_L48.DDS.zip|c13d5516099ef08fdab07e0bea36315e
+/Character/Player/Tex/BELFEMALE_ARMOR_UPPER_R48.DDS.zip|d9ffdb301ad161a5765fc9fc11c24dbe
+/Character/Player/Tex/BELMALE_ARMOR_UPPER_L48.DDS.zip|91ece61b5078865645c8baf163053b43
+/Character/Player/Tex/BELMALE_ARMOR_UPPER_R48.DDS.zip|612712521d50f03ebbc8942b7ee51b42
 /Character/Unit/Mesh/CATAPULT_BACK_SB.msh.zip|86db684f43ccdba28b5d4214c6dcc80c
 /Character/Unit/Mesh/CATAPULT_BACK_SR.msh.zip|7ea884bccdb3452fe9c0fb3733cf286e
 /Character/Unit/Mesh/CATAPULT_BACK_SW.msh.zip|07337fd133f916dabf65030d0c0d8039
@@ -58,6 +66,8 @@
 /Character/Unit/Tex/GOLIATH_UPPER_109.dds.zip|46a3465ad7db2330d6f58229482a50d5
 /Character/Unit/Tex/GOLIATH_UPPER_212.dds.zip|dd7e9a01ae74397a31dfa4d2b3dd9ba5
 /Character/Unit/Tex/GOLIATH_UPPER_354.dds.zip|b0c272a8f99fcbf68e7416ae87198817
+/Chef/Eff/skin/Armor/AL.EFF.zip|81e087717c651c147f3db555fbb198be
+/Chef/Eff/skin/Armor/AR.EFF.zip|8185f608cb9ee9183382a3a1ec99530f
 /Chef/Eff/skin/Unit/SB/SB.EFF.zip|8693545f68458f91f39ad255956dd14e
 /Chef/Eff/skin/Unit/SBF/SBF.EFF.zip|645581becd2dcd71f07e96ee96ae854b
 /Chef/Eff/skin/Unit/SG/SG.EFF.zip|bd9cb2f61dcf093a375fe893f81c5a25
@@ -66,9 +76,13 @@
 /Chef/Eff/skin/Unit/SRF/SRF.EFF.zip|8c9f62acf9d2bd7775f7a0aacb60ff10
 /Chef/Eff/skin/Unit/SRG/SRG.EFF.zip|775950ed554ba35432971bd363d495fb
 /Chef/Eff/skin/Unit/SW/SW.EFF.zip|e6bc629f13ea76c6772bfede062a6229
+/Chef/EffectFileList.txt.zip|4d5f9e91f08ffd5512205117a5966ec0
+/Chef/ItemEffectList.txt.zip|7aa9dfc7e2c12721d66e6b93709da79d
 /Chef/Tex/Unit/SB1.DDS.zip|8b7467ef1bd7715ea2f2cd005da41f5d
 /Chef/Tex/Unit/SG1.DDS.zip|0d67715b3ebad2a4e94f5f63223bb9dd
+/Chef/Tex/Unit/SOL.DDS.zip|903b070f9e53fb4e91fe10e33dc8ac75
 /Chef/Tex/Unit/SR1.DDS.zip|6e2cff4a3b762da5797883d64771e0ac
+/Chef/Tex/Unit/SRV.DDS.zip|532ed606518750bc9fc42460c21e1bfb
 /Chef/Tex/Unit/SW1.DDS.zip|7d9af40e0a0dda7770d7cc45ddb16602
 /Chef/Unit.ini.zip|cb64ea6613918655024ea37d04d1da7b
 /DataTable/Apa.dic.zip|5f7a3ad695929b978a0d8572b4b9fa53
@@ -85,7 +99,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|6645c6ad17673aaf3adb5995f57fc8c4
+/DataTable/Item.edf.zip|1c765cb880bc4d599cae9798828c8648
 /DataTable/ItemCash.edf.zip|47bab6616a5987737e87e85fcc189733
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -103,7 +117,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|5792e48bb862bd06ddb655c9fa8a47c5
+/DataTable/Resource.edf.zip|2e31805300e3b14429cd3ff52eba341d
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|2e24e071baf587dac118aabff55906a6
 /DataTable/Store.edf.zip|a83c1bfdd6a7428206685ce31b4b24d4
@@ -152,7 +166,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|20cd3aed782bbbfa9255c04359419556
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|ca15e082e23508bffb5de84029147e9a
+/DataTable/en-gb/NDItem.edf.zip|babd0b54da177d39d7d2e9466f6defe1
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|e3e77d42152f4f105ca60a342fb70ce1
