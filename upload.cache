@@ -66,8 +66,8 @@
 /Character/Unit/Tex/GOLIATH_UPPER_109.dds.zip|46a3465ad7db2330d6f58229482a50d5
 /Character/Unit/Tex/GOLIATH_UPPER_212.dds.zip|dd7e9a01ae74397a31dfa4d2b3dd9ba5
 /Character/Unit/Tex/GOLIATH_UPPER_354.dds.zip|b0c272a8f99fcbf68e7416ae87198817
-/Chef/Eff/skin/Armor/AL.EFF.zip|81e087717c651c147f3db555fbb198be
-/Chef/Eff/skin/Armor/AR.EFF.zip|8185f608cb9ee9183382a3a1ec99530f
+/Chef/Eff/skin/Armor/AL.EFF.zip|c4d551de87a76287c4aaff416e4dd27c
+/Chef/Eff/skin/Armor/AR.EFF.zip|e73b8f009843fe7c7473b9863755c4c2
 /Chef/Eff/skin/Unit/SB/SB.EFF.zip|8693545f68458f91f39ad255956dd14e
 /Chef/Eff/skin/Unit/SBF/SBF.EFF.zip|645581becd2dcd71f07e96ee96ae854b
 /Chef/Eff/skin/Unit/SG/SG.EFF.zip|bd9cb2f61dcf093a375fe893f81c5a25
@@ -84,6 +84,7 @@
 /Chef/Tex/Unit/SR1.DDS.zip|6e2cff4a3b762da5797883d64771e0ac
 /Chef/Tex/Unit/SRV.DDS.zip|532ed606518750bc9fc42460c21e1bfb
 /Chef/Tex/Unit/SW1.DDS.zip|7d9af40e0a0dda7770d7cc45ddb16602
+/Chef/Tex/Unit/black.dds.zip|fe34fa351e95076765b9b9ea19b6a8a0
 /Chef/Unit.ini.zip|cb64ea6613918655024ea37d04d1da7b
 /DataTable/Apa.dic.zip|5f7a3ad695929b978a0d8572b4b9fa53
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
