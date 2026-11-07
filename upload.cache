@@ -85,7 +85,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|79033f7280ac02df6ae464404451d0d7
+/DataTable/Item.edf.zip|554d7e2d358d29a6f87ceb582f2d99ab
 /DataTable/ItemCash.edf.zip|47bab6616a5987737e87e85fcc189733
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -152,7 +152,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|20cd3aed782bbbfa9255c04359419556
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|4063c03d62c479be54d50367ba014479
+/DataTable/en-gb/NDItem.edf.zip|3c70293da7cf51492c36f45b66f62e7b
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|e3e77d42152f4f105ca60a342fb70ce1
@@ -795,7 +795,7 @@
 /Map/Sette/sky2/Settesky2.r3e.zip|058db34c5df6fa9ff35c5343c1d76a52
 /Map/Sette/sky2/Settesky2.r3m.zip|33dc3f52b877853591967b6c3be69478
 /Map/Sette/sky2/Settesky2.r3t.zip|65cee701f92ac7632f06f1a476850d39
-/Snooper.dll.zip|51834ad86b73b9e6a3726ba8babeb7e6
+/Snooper.dll.zip|72a54b9eb8a8f55153bcedb14b0206e7
 /Snooper/enchant.dat.zip|68395e29de16976382f4a7e2e577433f
 /Snooper/enchantexplicit.dat.zip|d1ecd4573e1a615be9cb20a63445f847
 /Snooper/fastcombine.dat.zip|528a140783c286935754f5ac66b2af7c
@@ -807,6 +807,7 @@
 /Snooper/mod/broadcast.ini.zip|677c43cc86b1a12fb0f8b6b96e0f8c4e
 /Snooper/mod/buffer.ini.zip|245dd4430e85de4ac632075416a4a588
 /Snooper/mod/cashpoint.ini.zip|88a6f0ece16855a2062efbb9c3217fba
+/Snooper/mod/chat.ini.zip|30dfca030f34640b9ca5bd13a34dbd31
 /Snooper/mod/deathscreen.ini.zip|c4077226006cc583a585d60d08513103
 /Snooper/mod/discord.ini.zip|4b8c5c1d359c0d6ff8498655fa3796bb
 /Snooper/mod/enchant.ini.zip|183068abcc3c71851472d35490bd2876
@@ -823,7 +824,7 @@
 /Snooper/mod/season_pass.ini.zip|853b40958823d418887c8b7ca8a373d4
 /Snooper/mod/shop.ini.zip|d5beab7d44bcea510e6ea857ae8f9be8
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
-/Snooper/mod/system_message.ini.zip|c7b71aeb07f4af09497980af59c4ef9d
+/Snooper/mod/system_message.ini.zip|97e19d0fad92c03092073b96914bca2c
 /Snooper/mod/tooltips.ini.zip|958d5b43cea96c2367483b67ce1e5a04
 /Snooper/mod/transaction.ini.zip|d36e35d0bac1b64ab91615995cf531d3
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
@@ -836,7 +837,7 @@
 /Snooper/socketitem.dat.zip|4b6ee9014e032221e41cd2b9023eccc0
 /Snooper/transmutation.dat.zip|62a6cf12e48d39ae33b335ed12e6f7bd
 /SpriteImage/common/7DayLogin.spr.zip|6e40e89fa4813fbba6de0ba48562088a
-/SpriteImage/common/Etc.spr.zip|234286de7c83d9a051399115f52acdfe
+/SpriteImage/common/Etc.spr.zip|3cd28182f37af21acc67b524d8674cd0
 /SpriteImage/common/GuildSkills.spr.zip|0ee6c20aabf98f89ecf489123384a1e5
 /SpriteImage/common/ItemSockets.spr.zip|1ca44e92b6b3197e6b6dc7cd123440a1
 /SpriteImage/common/Launcher/CountrySelect_bg.bmp.zip|9a754612d9f96b67fc7404ed0dcf20c9
@@ -930,7 +931,7 @@
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
 /SpriteImage/common/Map/Wind_Field.spr.zip|0dac2f34a3c3be06aa7000361a220825
 /SpriteImage/common/Map/Winner_Field.spr.zip|38de67b021584a680c743b04bdb12e87
-/SpriteImage/common/Mods.spr.zip|0933b2e5addb4dcdefc430e541784abc
+/SpriteImage/common/Mods.spr.zip|cdcd9c97991c5730613f24966a6d6c6b
 /SpriteImage/common/News.spr.zip|457822bf8484b0d87d43ad7b768212b6
 /SpriteImage/common/PvpNotices.spr.zip|9b9e5e378b9355652e72a62fc58b251f
 /SpriteImage/common/SecheduleBoss.spr.zip|7da7dcc266c5b6f043d3dd89ed9b0df4
