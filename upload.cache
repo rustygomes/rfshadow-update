@@ -651,7 +651,7 @@
 /Chef/Eff/skin/Weapon/02/vamp.EFF.zip|3ed60ffa6505aad8eda715a4b65a70bf
 /Chef/EffectFileList.txt.zip|a5500cd5c0c04624a61e83e808ad3ef5
 /Chef/Entity.ini.zip|68d650e28461606fd35f96b50f3653f8
-/Chef/ItemEffectList.txt.zip|b455dc4237e2804222597a6cb54e9320
+/Chef/ItemEffectList.txt.zip|47e5dccb4389be1549e0e6cfe2b6d465
 /Chef/Particle.ini.zip|358d657092234b3aef7747b7576102ac
 /Chef/PatternList.txt.zip|8a86616bc60b44f12b0042c7b55bb772
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|6b27b9901a4180df976e7dfea5695fc5
@@ -1449,6 +1449,7 @@
 /Effect/effectfont.dds.zip|d3b4157824f55fd78cf97524db368c83
 /Item/Weapon/Ani/COM_WEAPON_RKNIFE_001S_DEFAULT.ANI.zip|96c08aa02765bbbd8c2b3934024340df
 /Item/Weapon/Mesh/COM_WEAPON_RKNIFE_001S.msh.zip|7e761b899e0ccb619621fa4fb8d0ba58
+/Item/Weapon/Tex/ELFM00/COM_RKNIFE_144.DDS.zip|d7a82adb56436a6eb78e41166230b30d
 /Item/Weapon/Tex/Hamer_Thor_1.dds.zip|9f68590d2038d092135a4f871906f928
 /Item/Weapon/Tex/Thor_Hamer.dds.zip|1f6ffb05da0b235be51f327af736d2c3
 /Map/Elan/Elan.BSP.zip|241d77aad61efaca2483efa0a5cb828a
