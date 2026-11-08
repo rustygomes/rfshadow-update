@@ -651,8 +651,8 @@
 /Chef/Eff/skin/Weapon/02/vamp.EFF.zip|3ed60ffa6505aad8eda715a4b65a70bf
 /Chef/EffectFileList.txt.zip|a5500cd5c0c04624a61e83e808ad3ef5
 /Chef/Entity.ini.zip|68d650e28461606fd35f96b50f3653f8
-/Chef/ItemEffectList.txt.zip|47e5dccb4389be1549e0e6cfe2b6d465
-/Chef/Particle.ini.zip|358d657092234b3aef7747b7576102ac
+/Chef/ItemEffectList.txt.zip|ba9ff08859b9e8bc27821019411b6269
+/Chef/Particle.ini.zip|83b7125ca02ad66904e4ea1ad4b5494e
 /Chef/PatternList.txt.zip|8a86616bc60b44f12b0042c7b55bb772
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|6b27b9901a4180df976e7dfea5695fc5
 /Chef/RH/EFF/Sovereign/Injure.EFF.zip|25cdb80109d1b3a4c374bdaf8bc3d08d
@@ -1198,6 +1198,10 @@
 /Chef/_BAK_GLOW_012603/ItemEffectList.txt.zip|6c680cbdacf26e1afe405a7c0f521f9a
 /Chef/_BAK_GLOW_012603/Particle.ini.zip|43398f1099910c128e881951fc94f564
 /Chef/_BAK_GLOW_012603/PatternList.txt.zip|00942a02473acbd8e8de031989e2fb03
+/Chef/_BAK_GLOW_135117/EffectFileList.txt.zip|a5500cd5c0c04624a61e83e808ad3ef5
+/Chef/_BAK_GLOW_135117/ItemEffectList.txt.zip|47e5dccb4389be1549e0e6cfe2b6d465
+/Chef/_BAK_GLOW_135117/Particle.ini.zip|358d657092234b3aef7747b7576102ac
+/Chef/_BAK_GLOW_135117/PatternList.txt.zip|8a86616bc60b44f12b0042c7b55bb772
 /Chef/skin/weapon/zeus/01.EFF.zip|4b1850c6e592888c8573e22b37f7bc19
 /Chef/skin/weapon/zeus/01.spt.zip|58987c841b22c4a1ae8ebb4d31c4a6cc
 /Chef/skin/weapon/zeus/01/01.R3E.zip|f6cfcac9fc214ee6128930cfb997f285
@@ -1294,8 +1298,9 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
+/DataTable/Resource.edf.bak_anims_135507.zip|8da1f1555fc4d44e1687981acb0f151b
 /DataTable/Resource.edf.bak_thor_011723.zip|72bf6c81a181e9d91874c7380078a5d7
-/DataTable/Resource.edf.zip|5ef946019d08494eff4d697938ec411d
+/DataTable/Resource.edf.zip|5885e8fe771e980d5ed9c7f2917b4770
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|2e24e071baf587dac118aabff55906a6
 /DataTable/Store.edf.zip|a83c1bfdd6a7428206685ce31b4b24d4
@@ -1448,6 +1453,10 @@
 /Effect/MagicSptList.spt.zip|6072a4a8707746b5eb4b91cf1e298149
 /Effect/effectfont.dds.zip|d3b4157824f55fd78cf97524db368c83
 /Item/Weapon/Ani/COM_WEAPON_RKNIFE_001S_DEFAULT.ANI.zip|96c08aa02765bbbd8c2b3934024340df
+/Item/Weapon/Ani/COM_WEAPON_RKNIFE_002S_DEFAULT.ANI.zip|38162a7e42f4a7aa9f582d49bba4d9ab
+/Item/Weapon/Ani/COM_WEAPON_RKNIFE_003S_DEFAULT.ANI.zip|3487cc937dfbed1741c4dfdf2de2213f
+/Item/Weapon/Ani/COM_WEAPON_RKNIFE_008S_DEFAULT.ANI.zip|b29afa0c9862d37daaef3ea3461702ed
+/Item/Weapon/Ani/COM_WEAPON_RKNIFE_009S_DEFAULT.ANI.zip|7e2644c84f84fdb5866dcc9d5e0fde94
 /Item/Weapon/Mesh/COM_WEAPON_RKNIFE_001S.msh.zip|7e761b899e0ccb619621fa4fb8d0ba58
 /Item/Weapon/Tex/ELFM00/COM_RKNIFE_144.DDS.zip|d7a82adb56436a6eb78e41166230b30d
 /Item/Weapon/Tex/Hamer_Thor_1.dds.zip|9f68590d2038d092135a4f871906f928
