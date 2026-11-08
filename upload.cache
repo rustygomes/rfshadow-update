@@ -1687,7 +1687,7 @@
 /Chef/Eff/skin/Weapon/DSH/Up_Bow_500.EFF.zip|4d83144f92ee293ca84878b5a793ac09
 /Chef/EffectFileList.txt.zip|8bb5b52008e5db588b404734a5fbbd7d
 /Chef/Entity.ini.zip|68d650e28461606fd35f96b50f3653f8
-/Chef/ItemEffectList.txt.zip|07f312b5eae37fd99eda79d03c9add23
+/Chef/ItemEffectList.txt.zip|42932981f3350027325c81141880b346
 /Chef/Particle.ini.zip|a320245d8d189a2aeaa7d827e5c51915
 /Chef/PatternList.txt.zip|77015923a11c4a8acb5a72a8589df8a1
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|6b27b9901a4180df976e7dfea5695fc5
@@ -2321,7 +2321,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|157c82d90dd488a9bee7981681ac8482
+/DataTable/Item.edf.zip|7563d469e5c3b058c1a691355977c1ab
 /DataTable/ItemCash.edf.zip|47bab6616a5987737e87e85fcc189733
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -2339,7 +2339,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|0bd3ddd597642bb3a9ee01c4b97d1093
+/DataTable/Resource.edf.zip|10fc524723580690251f2ab59fd68f30
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|2e24e071baf587dac118aabff55906a6
 /DataTable/Store.edf.zip|a83c1bfdd6a7428206685ce31b4b24d4
@@ -2388,7 +2388,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|20cd3aed782bbbfa9255c04359419556
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|b8b18168248e9508f8220b92957219a3
+/DataTable/en-gb/NDItem.edf.zip|6fd572729785ac249e4eb63ea20a340e
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|e3e77d42152f4f105ca60a342fb70ce1
@@ -3435,7 +3435,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
-/SpriteImage/common/item.spr.zip|3f5c4b5a94722f9cccb93127b47eb50f
+/SpriteImage/common/item.spr.zip|a27c045410a6c21649aa30c0057413a6
 /SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
 /SpriteImage/common/itemmake.spr.zip|ea0b0e2722f346f11b9d936005e1caf2
 /SpriteImage/common/main.spr.zip|a86399249bbeed7115e8862908e328e1
