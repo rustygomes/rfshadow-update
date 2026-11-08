@@ -631,11 +631,11 @@
 /Chef/Eff/skin/Unit/SRG/SRG.EFF.zip|775950ed554ba35432971bd363d495fb
 /Chef/Eff/skin/Unit/SW/SW.EFF.zip|e6bc629f13ea76c6772bfede062a6229
 /Chef/Eff/skin/Weapon/02/Hamer.EFF.zip|877b5f669f065ac940f1747d9d8c4789
-/Chef/EffectFileList.txt.zip|6d3d2558621a0cfb39cc9a2eaf6a7323
+/Chef/EffectFileList.txt.zip|963afc85005658cf320ee791ba7ec52c
 /Chef/Entity.ini.zip|68d650e28461606fd35f96b50f3653f8
-/Chef/ItemEffectList.txt.zip|6c680cbdacf26e1afe405a7c0f521f9a
-/Chef/Particle.ini.zip|43398f1099910c128e881951fc94f564
-/Chef/PatternList.txt.zip|00942a02473acbd8e8de031989e2fb03
+/Chef/ItemEffectList.txt.zip|28c6f7b6c34b73b04c37631159c75494
+/Chef/Particle.ini.zip|35a0e5b100e4a18c1fd3b7a26de19e5c
+/Chef/PatternList.txt.zip|25e31e52625a8a06d416d33b973287f8
 /Chef/RH/EFF/Sovereign/Cloak.EFF.zip|6b27b9901a4180df976e7dfea5695fc5
 /Chef/RH/EFF/Sovereign/Injure.EFF.zip|25cdb80109d1b3a4c374bdaf8bc3d08d
 /Chef/RH/EFF/Sovereign/Mask.EFF.zip|d1c223dc6b542c6cde8ea80e214d0b3a
@@ -1176,6 +1176,10 @@
 /Chef/Tex/new551.DDS.zip|621eb6c354476cfc83e08cbe132ef293
 /Chef/Tex/zews.dds.zip|d763f7623fda579d0c69d11a61760dfd
 /Chef/Unit.ini.zip|cb64ea6613918655024ea37d04d1da7b
+/Chef/_BAK_GLOW_012603/EffectFileList.txt.zip|6d3d2558621a0cfb39cc9a2eaf6a7323
+/Chef/_BAK_GLOW_012603/ItemEffectList.txt.zip|6c680cbdacf26e1afe405a7c0f521f9a
+/Chef/_BAK_GLOW_012603/Particle.ini.zip|43398f1099910c128e881951fc94f564
+/Chef/_BAK_GLOW_012603/PatternList.txt.zip|00942a02473acbd8e8de031989e2fb03
 /Chef/skin/weapon/zeus/01.EFF.zip|4b1850c6e592888c8573e22b37f7bc19
 /Chef/skin/weapon/zeus/01.spt.zip|58987c841b22c4a1ae8ebb4d31c4a6cc
 /Chef/skin/weapon/zeus/01/01.R3E.zip|f6cfcac9fc214ee6128930cfb997f285
