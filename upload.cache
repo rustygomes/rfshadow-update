@@ -3860,7 +3860,7 @@
 /DataTable/KeyMap.dat.zip|bc5dbe3725e24859d77a21660006e4f7
 /DataTable/KeyMap_NKM.dat.zip|fcbfe00f9b7b84bb157a25d4e05ac744
 /DataTable/MAPDATA.DAT.zip|c1a194e94497e7b9cfb7ae1faa55de53
-/DataTable/Map.edf.zip|8c50cb0916b4df9af7656b4e71ac3839
+/DataTable/Map.edf.zip|35424732e3d5f8b65575ad09ac6b16a1
 /DataTable/MonsterScript.edf.zip|00721a9b2172032863766d3e19c3615c
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
@@ -3921,7 +3921,7 @@
 /DataTable/en-gb/NDItem.edf.zip|523ce5b510283908a71b4db20fcc6fc4
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
-/DataTable/en-gb/NDMap.edf.zip|847ee13e6c426ec5299ca62602720d8a
+/DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|f54744ee0286e5d59c80eca4ec7fc49e
@@ -5471,7 +5471,7 @@
 /SpriteImage/common/Map/Reborn_Field.spr.zip|78579cce41a20f8f0408c1fa6bc2831c
 /SpriteImage/common/Map/Resource_Field.spr.zip|af84d33e96e825c5985d02d5abf6d2ea
 /SpriteImage/common/Map/Sette_Field.dat.zip|55517e478a73e3bff30a99ec7141baa7
-/SpriteImage/common/Map/Sette_Field.spr.zip|d3b116577af1adc103ad3d650a4e3874
+/SpriteImage/common/Map/Sette_Field.spr.zip|a1b325fed430d9a57cf3cbbf604197b9
 /SpriteImage/common/Map/Sorrow_Field.spr.zip|08e2849ae3e322b7185bafb68b70c531
 /SpriteImage/common/Map/Transport01.spr.zip|674bcb45af29a1ccb27f3478265220a5
 /SpriteImage/common/Map/Trns01_Field.spr.zip|35c92135880e0138e14e9a20b754a97c
