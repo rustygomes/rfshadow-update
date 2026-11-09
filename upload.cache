@@ -3838,7 +3838,7 @@
 /DataTable/KeyMap.dat.zip|bc5dbe3725e24859d77a21660006e4f7
 /DataTable/KeyMap_NKM.dat.zip|fcbfe00f9b7b84bb157a25d4e05ac744
 /DataTable/MAPDATA.DAT.zip|c1a194e94497e7b9cfb7ae1faa55de53
-/DataTable/Map.edf.zip|05d198eeb195000eb43de78dce62f234
+/DataTable/Map.edf.zip|b5bd280423ae030f4d1459347d435912
 /DataTable/MonsterScript.edf.zip|00721a9b2172032863766d3e19c3615c
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
@@ -3899,7 +3899,7 @@
 /DataTable/en-gb/NDItem.edf.zip|df0d84096c1f4ce26609a25a4f899e63
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
-/DataTable/en-gb/NDMap.edf.zip|725235d31682d3da22b5a34ea89f7421
+/DataTable/en-gb/NDMap.edf.zip|ddb2865498d49d43a5baf750a57c570f
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|f54744ee0286e5d59c80eca4ec7fc49e
@@ -4767,6 +4767,15 @@
 /Map/Arena2/Sky/Arena2sky.r3e.zip|e79ae103758aac795fda9eeb266f2589
 /Map/Arena2/Sky/Arena2sky.r3m.zip|7faf5c6b3a3ae7f479926b66298027ee
 /Map/Arena2/Sky/Arena2sky.r3t.zip|dc5c5b2e91a1c1fc2bd248a7015f5ab2
+/Map/Dungeon06/Dungeon06.bsp.zip|930b147fd95c853b2a638e2023d54cc2
+/Map/Dungeon06/Dungeon06.ebp.zip|3e6a1a0b04fbc3e84cf14e827571d367
+/Map/Dungeon06/Dungeon06.r3m.zip|40fc4cd68852b848e3169a3bc99270cd
+/Map/Dungeon06/Dungeon06.r3t.zip|dd272c8ec2e38949a9ecc8fbd1702d91
+/Map/Dungeon06/Dungeon06.r3x.zip|331f0f971c3cfdbd7214518f90e88f9a
+/Map/Dungeon06/Dungeon06Lgt.r3t.zip|c9695e49ea7ea1bd7da62e591ed698a2
+/Map/Dungeon06/Sky/Dungeon06sky.r3e.zip|3ee3e506b4adceb17c0ef75dedd1e069
+/Map/Dungeon06/Sky/Dungeon06sky.r3m.zip|51fa5a1dc358489a12be17a43af69b27
+/Map/Dungeon06/Sky/Dungeon06sky.r3t.zip|383ac55083e1e19752c639dc5650020a
 /Map/Elan/Elan.BSP.zip|241d77aad61efaca2483efa0a5cb828a
 /Map/Elan/Elan.ebp.zip|8ce17e86ce16d4bdd22d93068d0fd723
 /Map/Elan/Elan.r3m.zip|76a43c77b59fa5f49db1c79e58727598
@@ -5307,6 +5316,7 @@
 /Map/Sette/sky2/Settesky2.r3e.zip|058db34c5df6fa9ff35c5343c1d76a52
 /Map/Sette/sky2/Settesky2.r3m.zip|33dc3f52b877853591967b6c3be69478
 /Map/Sette/sky2/Settesky2.r3t.zip|65cee701f92ac7632f06f1a476850d39
+/RF_Online.bin.zip|53d5b6621fb2d1fc13c28b6164697d88
 /Snooper.dll.zip|72a54b9eb8a8f55153bcedb14b0206e7
 /Snooper/enchant.dat.zip|68395e29de16976382f4a7e2e577433f
 /Snooper/enchantexplicit.dat.zip|d1ecd4573e1a615be9cb20a63445f847
