@@ -3838,7 +3838,7 @@
 /DataTable/KeyMap.dat.zip|bc5dbe3725e24859d77a21660006e4f7
 /DataTable/KeyMap_NKM.dat.zip|fcbfe00f9b7b84bb157a25d4e05ac744
 /DataTable/MAPDATA.DAT.zip|c1a194e94497e7b9cfb7ae1faa55de53
-/DataTable/Map.edf.zip|957c5c046eed297645933c76589b4a9f
+/DataTable/Map.edf.zip|3783da27aea49ef348367500567d82ae
 /DataTable/MonsterScript.edf.zip|00721a9b2172032863766d3e19c3615c
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
@@ -3899,7 +3899,7 @@
 /DataTable/en-gb/NDItem.edf.zip|67ef4c775c17e62d66b86f5b0e8b13f2
 /DataTable/en-gb/NDItemCash.edf.zip|f62f9063edf666d8582d7d2e10ec4528
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
-/DataTable/en-gb/NDMap.edf.zip|1b11f6a6ad92d92d14d3913f5e16c71f
+/DataTable/en-gb/NDMap.edf.zip|192b2c6efb5f050e6822f25492864204
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|f54744ee0286e5d59c80eca4ec7fc49e
@@ -5386,12 +5386,14 @@
 /SpriteImage/common/Launcher/bt_country_Vietnam_Over.bmp.zip|f8f13b69db55a5ff402f6c09ec5e908b
 /SpriteImage/common/Launcher/bt_main_setting_Eng_Normal.bmp.zip|bfc05e42b87ee48cc0b901930b124150
 /SpriteImage/common/Launcher/bt_main_setting_Eng_Over.bmp.zip|9bff2d63cca69cdebe9ec4b17dd82cd5
+/SpriteImage/common/Loading/ARENA2.dds.zip|17dbe1bedd0b0c05d3c1ae67451063ec
 /SpriteImage/common/Loading/CAULDRON01.dds.zip|fec1f6097b5881c8e3e933f33bfaf427
 /SpriteImage/common/Loading/DUNGEON00.dds.zip|9f4d0f6051e6ffa3faac7be0b20242d9
 /SpriteImage/common/Loading/DUNGEON01.dds.zip|94e58080ec34bea05d7e9842f93db0ef
 /SpriteImage/common/Loading/DUNGEON02.dds.zip|3a18ad566a3d8774cf362369eb4439dc
 /SpriteImage/common/Loading/DUNGEON03.dds.zip|074b0f64df569451c40e1bd42e1c28b0
 /SpriteImage/common/Loading/DUNGEON04.dds.zip|3df295f8d532afe983707011b098cc79
+/SpriteImage/common/Loading/DUNGEON06.dds.zip|3c799a46bf4360d88ab690c43ca363e8
 /SpriteImage/common/Loading/EXILE_LAND.dds.zip|d126332356646f3c5a3bac2ec6593135
 /SpriteImage/common/Loading/MEDICALLAB.dds.zip|7f70c3ef9eeb59a2c3e710b73910428d
 /SpriteImage/common/Loading/MEDICALLAB2.dds.zip|846b87930f62845d61e9db6689acaa4b
