@@ -3790,7 +3790,7 @@
 /Effect/EffectEntityList.spt.zip|84326fe90da71bc6d58e62273451e596
 /Effect/MagicSptList.spt.zip|d6f3d36259cafa7a807508faba52496a
 /Effect/effectfont.dds.zip|d3b4157824f55fd78cf97524db368c83
-/Effect/item_2/Grade_up/Grade_up_mag.spt.zip|fe1bd1dd009df940543c7795363cfa28
+/Effect/item_2/Grade_up/Grade_up_mag.spt.zip|dd1869a364e99ab1f7bd29231566ed4b
 /Effect/item_2/Grade_up/src/gradeup_title/gradeup_title.r3e.zip|a60854a5aa853e438550d33cc373db98
 /Effect/item_2/Grade_up/src/gradeup_title/gradeup_title.r3m.zip|4ebd8a906accc5e0ed122bf0fce78ad2
 /Effect/item_2/Grade_up/src/gradeup_title/gradeup_title.r3t.zip|c7b6b6e1f45b56989181c9640e1264d6
@@ -3808,7 +3808,7 @@
 /Effect/item_2/Grade_up/src/shadowlogo_anim/logo.r3e.zip|5dc2dbcaa00e98e2a1e8c50d6d661b6c
 /Effect/item_2/Grade_up/src/shadowlogo_anim/logo.r3m.zip|e65856526c053b7b256274b3f9e53604
 /Effect/item_2/Grade_up/src/shadowlogo_anim/logo.r3t.zip|306dcb209d741f843232d908c0161e24
-/Effect/item_2/Grade_up/src/shadowlogo_p.spt.zip|bef4570186cacbeeb12fe1cc2e5fec37
+/Effect/item_2/Grade_up/src/shadowlogo_p.spt.zip|0237f9bb99310d2320b334870e8dd8d3
 /Item/Armor/Ani/ACCRETIA_ARMOR_CLOAK_001S_ATTACK.ANI.zip|01eaed61728ac0d3015e82f554521346
 /Item/Armor/Ani/ACCRETIA_ARMOR_CLOAK_001S_DEFAULT.ANI.zip|6108bb2df9a7e87fd7a7ead81be2bde3
 /Item/Armor/Ani/ACCRETIA_ARMOR_CLOAK_001S_EQUIP.ANI.zip|e4a5c80627009885eee9804e18e1e96b
