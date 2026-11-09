@@ -2401,6 +2401,7 @@
 /Chef/DSH/T/black.DDS.zip|4d8f34034c49d52771a09313158c7f39
 /Chef/DSH/T/black5.DDS.zip|79f3be1cc89009fe0af5154afc2c897b
 /Chef/DSH/T/disin.DDS.zip|899d301a4f033ab9859b84ddf6da2146
+/Chef/DSH/T/el10.DDS.zip|7c6bbc56f7a4dd789915ce9d70fa9e85
 /Chef/DSH/T/el102.DDS.zip|ad59a624abdfcd359db2fe1321b3c704
 /Chef/DSH/T/el10e.DDS.zip|c4b0d9d55a9db7d65e6496bc3fe5e41f
 /Chef/DSH/T/elec_10.DDS.zip|cfd2aa9e94da1c60c388cca37fd4b6d2
@@ -2990,6 +2991,10 @@
 /Chef/DSH/weapon_01/Sticks/Violet/glow_light_02/aura.r3e.zip|c9844a47a4b41f52e976b7f9a284545d
 /Chef/DSH/weapon_01/Sticks/Violet/glow_light_02/aura.r3m.zip|f3d08748d352b7e2061b3581e19cc6fb
 /Chef/DSH/weapon_01/Sticks/Violet/glow_light_02/aura.r3t.zip|252365e39674c3c89d5214f42dca4076
+/Chef/Eff/Booster/ACCRETIA_CUSTOM_BLUE.EFF.zip|9786b286244d46a4c9b8effb7f1e0eb0
+/Chef/Eff/CHOOPUMP/HALLOWEEN.EFF.zip|fdb75b09f176585377b0628e922457df
+/Chef/Eff/MangTeau_2018/CORMALE_ARMOR_CLOAK_003.EFF.zip|80c60b14963609c0c920b60788a23e62
+/Chef/Eff/Taiwan_Halloween/ACCRETIA_ARMOR_HELMET_125.EFF.zip|d131906d1683388b515844d75d94ecbf
 /Chef/Eff/skin/Armor/64/15.EFF.zip|71dea9c0e3fdffea904220498188dc28
 /Chef/Eff/skin/Armor/AL.EFF.zip|9b4cf3cbfec2da69b217e33690c4de3a
 /Chef/Eff/skin/Armor/AR.EFF.zip|f81451fc596d5a31c035a81f58c88135
@@ -5469,7 +5474,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
-/SpriteImage/common/item.spr.zip|a27c045410a6c21649aa30c0057413a6
+/SpriteImage/common/item.spr.zip|302d61baeb785318912d355fa1cf3f3b
 /SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
 /SpriteImage/common/itemmake.spr.zip|ea0b0e2722f346f11b9d936005e1caf2
 /SpriteImage/common/main.spr.zip|a86399249bbeed7115e8862908e328e1
