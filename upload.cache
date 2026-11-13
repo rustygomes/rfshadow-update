@@ -3937,7 +3937,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|f508fd18ab54aa472b00d07f7e2cf028
+/DataTable/Item.edf.zip|02d6956def33bfdb95324fab76afe5df
 /DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -4004,7 +4004,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|43ae6e99aae4864a31385e24285cefeb
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|41f53fae02e9ca9419c111bf6b403f06
+/DataTable/en-gb/NDItem.edf.zip|6679edc9e3246915039c5ff0a9f63dc2
 /DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
@@ -5422,7 +5422,7 @@
 /Map/Sette/sky2/Settesky2.r3m.zip|33dc3f52b877853591967b6c3be69478
 /Map/Sette/sky2/Settesky2.r3t.zip|65cee701f92ac7632f06f1a476850d39
 /RF_Online.bin.zip|1cb8fab4ad59c8f450ad0ca58b0b9ab0
-/Snooper.dll.zip|7b6dd289fd8b54c9759e16bb6e152574
+/Snooper.dll.zip|7c384ba6f1f33257ce848e09971acd25
 /Snooper/enchant.dat.zip|68395e29de16976382f4a7e2e577433f
 /Snooper/enchantexplicit.dat.zip|d1ecd4573e1a615be9cb20a63445f847
 /Snooper/fastcombine.dat.zip|528a140783c286935754f5ac66b2af7c
@@ -5444,15 +5444,15 @@
 /Snooper/mod/item_sockets.ini.zip|5196f76e9b07475f37de863afb128368
 /Snooper/mod/monster_notification.ini.zip|61475657d8bdc87bff126c675ff246f3
 /Snooper/mod/normal_effects.ini.zip|087e081183253d3894b57576982eb25a
-/Snooper/mod/options.ini.zip|faf0650e09dd3f192e364354aeb0d9ca
+/Snooper/mod/options.ini.zip|d3fc0288cb55219a38b104b9b409f2fb
 /Snooper/mod/patriarch.ini.zip|1c1ef562217233e86cd8a638162a8962
 /Snooper/mod/potion.ini.zip|b89fa51b317d714f42fd580d2d23dd82
 /Snooper/mod/resources.ini.zip|d55de5f8c598ddeab2b671da19c6c4b7
 /Snooper/mod/season_pass.ini.zip|853b40958823d418887c8b7ca8a373d4
 /Snooper/mod/shop.ini.zip|d5beab7d44bcea510e6ea857ae8f9be8
 /Snooper/mod/smartbox.ini.zip|4f68903203556c0cefc030a7d8eb8424
-/Snooper/mod/system_message.ini.zip|97e19d0fad92c03092073b96914bca2c
-/Snooper/mod/tooltips.ini.zip|958d5b43cea96c2367483b67ce1e5a04
+/Snooper/mod/system_message.ini.zip|384c538d5b822286930725272b32b67f
+/Snooper/mod/tooltips.ini.zip|3abd7a54401c4e9036dd31cb2beba668
 /Snooper/mod/transaction.ini.zip|d36e35d0bac1b64ab91615995cf531d3
 /Snooper/mod/transmutation.ini.zip|c639b2bbd170bc342513c176838569e9
 /Snooper/mod/ui_globals.ini.zip|91d8eab0c23b0d2c1d51a1ef172d6c41
