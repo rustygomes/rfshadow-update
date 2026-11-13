@@ -3084,6 +3084,12 @@
 /Character/Player/Ani/CMMOA.RFS.zip|49bb369e1ae8d1e224773304b7500681
 /Character/Player/Ani/CMRAA.RFS.zip|ff4647c62f6441f478607ec4b68438f5
 /Character/Player/Ani/CMRHA.RFS.zip|3f558d73d77ea19cef04d5ae38942135
+/Character/Player/Ani/CORMALE_F_COMBAT_ASSISTANCE.ANI.zip|f5339123ba6f55c528b446b636c30be4
+/Character/Player/Ani/CORMALE_F_COMBAT_TEXTENT.ANI.zip|9de9fe8078caeb6214d6d7fd34d64dae
+/Character/Player/Ani/CORMALE_F_COMBAT_TFLASH.ANI.zip|47ad9a97122090cc3e080e24c5f956c8
+/Character/Player/Ani/CORMALE_F_COMBAT_TONE.ANI.zip|6b6ac6b98536ca46125228d3b0211683
+/Character/Player/Ani/CORMALE_F_COMBAT_TSELF.ANI.zip|6e12d0cae136e9942b4821eaa359b5b9
+/Character/Player/Ani/CORMALE_F_PEACE_ASSISTANCE.ANI.zip|58bcd227bcb593fb004ba3a9dcf65419
 /Character/Player/Ani/NewGESTURE.RFS.zip|79a2fcac91b89be8bae9fa84da15eaf9
 /Character/Player/Ani/RFSInfo.dat.zip|4ba9dc9ca342bcb7f752592a71deb680
 /Character/Player/Bone/ACCRETIA_ARMOR_013.bn.zip|0bc88a388ab45806438cdfb9613340b3
@@ -24387,7 +24393,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|02d6956def33bfdb95324fab76afe5df
+/DataTable/Item.edf.zip|8d88816c203a8be96fd5b30c4645bc62
 /DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
 /DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -24405,7 +24411,7 @@
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
-/DataTable/Resource.edf.zip|b9a43ef0778060dc50b2ca0acc7f02bf
+/DataTable/Resource.edf.zip|1717a65c7fa2fcf8279c0bc97c09e2e3
 /DataTable/SetItemEffect.edf.zip|ed48b690673ed0934621df4377b82e81
 /DataTable/SkillForce.edf.zip|279c4348eeee99a9556a074f589fa164
 /DataTable/Store.edf.zip|ea6cdc9990c05ec6c60fc8ec0bb1a6ee
@@ -24454,7 +24460,7 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|43ae6e99aae4864a31385e24285cefeb
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|6679edc9e3246915039c5ff0a9f63dc2
+/DataTable/en-gb/NDItem.edf.zip|ee3261b69df844f4409b6a67e6e2d3e0
 /DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
