@@ -24810,7 +24810,7 @@
 /DataTable/BattleDungeon.edf.zip|fcc8cb7faf0227f00bc601c7d67674e6
 /DataTable/CashShop.edf.zip|54aa657df6de4f35dafa9da9434e2b68
 /DataTable/CcrLogo.dat.zip|7caf1543fde153290a7290f35f2f3ab4
-/DataTable/Character.edf.zip|7815d7414c29c1cbf87de41670a57a79
+/DataTable/Character.edf.zip|77047271708c88accb1af30696beb209
 /DataTable/Csia.txt.zip|8f028e027e0b2758cb50a6094f9fd9ad
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
 /DataTable/EventSound.edf.zip|9bf41128903a305b2e1f3cccdfef3033
@@ -24820,7 +24820,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|e5d14ff819dbe2b333b7e8205e832e3e
+/DataTable/Item.edf.zip|edffe1a9b8c0441e42755429e2ffbc00
 /DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
 /DataTable/ItemCombine.edf.zip|a0247a2b2aaba662c64a1bd234dc463e
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -24885,9 +24885,9 @@
 /DataTable/en-gb/Map.edf.zip|27079ab968de7ae71b68bd40a15dff3e
 /DataTable/en-gb/MiniLauncher.Localization.ini.zip|6e1dc4e2fdef99c8932448a690e255e2
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
-/DataTable/en-gb/NDCharacter.edf.zip|43ae6e99aae4864a31385e24285cefeb
+/DataTable/en-gb/NDCharacter.edf.zip|8d302a29374d4034a346e36dd7b7499e
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|f114349609c36e63a3ffe926f08192b6
+/DataTable/en-gb/NDItem.edf.zip|0efe3b9f184481b013c480f79e9ebd52
 /DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
