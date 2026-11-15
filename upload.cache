@@ -17124,7 +17124,7 @@
 /Chef/Infernal_Dragon_Weapon/TSWORD_193/sword_01/adre2_1.dds.zip|ab7a58a81e6f434c58e1e7b82c7eb58a
 /Chef/Infernal_Dragon_Weapon/TSWORD_193/sword_01/sword_01.R3E.zip|330d855c75357667148289f243dd7eba
 /Chef/ItemEffectList.txt.antes-armadura.zip|3b73dbb7e299d9b97623a8294ed3a276
-/Chef/ItemEffectList.txt.zip|363f606947a8aae0eb293ebc31cf7dfc
+/Chef/ItemEffectList.txt.zip|018fe0ed9acb30ebc068747b4b71c581
 /Chef/MangTeau_2018/Be/black/src/58033.spt.zip|39e032ab736ef1e51a931f6e47e662d9
 /Chef/MangTeau_2018/Be/black/src/58033/58033.R3E.zip|4ecc72d737a39299e6f46dbee9f67cff
 /Chef/MangTeau_2018/Be/black/src/58033/MainMaterial.mst.zip|b88bdeb3acbac47ef10d2347dcefa041
@@ -24820,9 +24820,9 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|e9171bcd44a290c35077ab6b483ed058
+/DataTable/Item.edf.zip|8694794d3408b326d561bb30ebff8ae2
 /DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
-/DataTable/ItemCombine.edf.zip|e592e38fc88b39b7b1799b844c837dee
+/DataTable/ItemCombine.edf.zip|dd97a351039c9e2e850be77f5e069b43
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
 /DataTable/ItemSetEffect.edf.zip|3642769834f9b695087ff3d50dd1f7d9
 /DataTable/ItemTimer.edf.zip|2409965bbd5f404c1a6796ad3769243b
@@ -24834,7 +24834,7 @@
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
 /DataTable/PlayerCharacter.edf.zip|acd535312355dd45626b0e564415430f
-/DataTable/Quest.edf.zip|6bd62c2a7c36e68f16dd2a6fe48d3589
+/DataTable/Quest.edf.zip|024c6288d60c08e768a1ad9ac1c43477
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
@@ -24887,13 +24887,13 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|43ae6e99aae4864a31385e24285cefeb
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|988cc9f9bb78c0cb1db1b9b4d74c34fa
+/DataTable/en-gb/NDItem.edf.zip|3053e9d7c5bd3e892cb7b4a4d7cd5039
 /DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
-/DataTable/en-gb/NDQuest.edf.zip|f54744ee0286e5d59c80eca4ec7fc49e
+/DataTable/en-gb/NDQuest.edf.zip|92ecc3e4dc61e724ef21c60e0b44fd66
 /DataTable/en-gb/NDSkillForce.edf.zip|8faed073ee5c79e6d8ee4c89d2682982
 /DataTable/en-gb/NDStore.edf.zip|b982dc2aface66d8db0ea62cf8a7fe9f
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
