@@ -24820,7 +24820,7 @@
 /DataTable/GemSockets.EDF.zip|742b1e159c9a6d40ca0f252e970f24c2
 /DataTable/Hint.edf.zip|f07012fdf750dbcb074dd52cf07f7b5c
 /DataTable/Ipa.dic.zip|763949e09e1fba438c41752b1197e741
-/DataTable/Item.edf.zip|1b57c6fab39ffff453e1fc18a828e229
+/DataTable/Item.edf.zip|0fb7802050312d042020cc9c6cc3d72e
 /DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
 /DataTable/ItemCombine.edf.zip|a0247a2b2aaba662c64a1bd234dc463e
 /DataTable/ItemPremium.edf.zip|3b714a82c20b0c084c9ab7b4fd61c4ab
@@ -24834,7 +24834,7 @@
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/Player.edf.zip|6ea663a09cc9df5e651c889f0e339d02
 /DataTable/PlayerCharacter.edf.zip|acd535312355dd45626b0e564415430f
-/DataTable/Quest.edf.zip|728029aa7dcf85460b400b76bc287dfd
+/DataTable/Quest.edf.zip|1ae72d827a678116197c47807618a247
 /DataTable/RF_AVI.dat.zip|5a03e8b6134a7c2e24fd143e6d169f94
 /DataTable/RF_URL.dat.zip|373368f17f880e1ac81cd78eb051c76d
 /DataTable/RadiusView.EDF.zip|2cfe5aebd684ef8791eb3abb16360ab7
@@ -24887,13 +24887,13 @@
 /DataTable/en-gb/MonsterScript.edf.zip|58bc63718e5bfeb39c37cf32a1450feb
 /DataTable/en-gb/NDCharacter.edf.zip|8d302a29374d4034a346e36dd7b7499e
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|81a66b0787295e5fac0810fe2b5b0942
+/DataTable/en-gb/NDItem.edf.zip|c2fe901a8d3caab3f63d86c19a28fc23
 /DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
-/DataTable/en-gb/NDQuest.edf.zip|22566147e981435d407f0dd04851baac
+/DataTable/en-gb/NDQuest.edf.zip|3151016369b6a852193583db9113a2e6
 /DataTable/en-gb/NDSkillForce.edf.zip|8faed073ee5c79e6d8ee4c89d2682982
 /DataTable/en-gb/NDStore.edf.zip|51fd2ad6dfefa66619a2e247814b2570
 /DataTable/en-gb/PcRoom.edf.zip|a067b08f20e710d4af9bf5f17f175333
@@ -28251,7 +28251,7 @@
 /SpriteImage/common/exchange.spr.zip|bcebf55523313a41a5d55d2f3abb5474
 /SpriteImage/common/guild.spr.zip|2f11f3e578f57695eb693ee927dec594
 /SpriteImage/common/inventory.spr.zip|85872abc34eb88f25114568f0a5ff3ed
-/SpriteImage/common/item.spr.zip|4ea44089aa56d7b0337f01fd36d05de3
+/SpriteImage/common/item.spr.zip|7210bade53fde13f87f1e03f75207449
 /SpriteImage/common/itemcombine.spr.zip|8fda9143e0d307f4a792e10131dbd1a6
 /SpriteImage/common/itemmake.spr.zip|ea0b0e2722f346f11b9d936005e1caf2
 /SpriteImage/common/main.spr.zip|a86399249bbeed7115e8862908e328e1
