@@ -1,12 +1,12 @@
 /DataTable/Character.edf.zip|7a8312e6de422be8b3f145a299fb8dc7
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|f36ad78d69fcd946cd8af6ab50a99ed3
-/DataTable/ItemCash.edf.zip|dbd5bc3109906dec0edaff0a247e4312
+/DataTable/Item.edf.zip|a120ea1b470f12d29c416b32222bd55f
+/DataTable/ItemCash.edf.zip|1728629d37d9808be37e3e7edb025351
 /DataTable/ItemCombine.edf.zip|dfd7c481e853659098543eb24259c088
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
 /DataTable/ItemSetEffect.edf.zip|3642769834f9b695087ff3d50dd1f7d9
 /DataTable/ItemTimer.edf.zip|2409965bbd5f404c1a6796ad3769243b
-/DataTable/Map.edf.zip|1993f4288a2403adbc887a8e3cac7c12
+/DataTable/Map.edf.zip|ffd61066b9c42c54f27045b758ffc50d
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/PlayerCharacter.edf.zip|acd535312355dd45626b0e564415430f
 /DataTable/Quest.edf.zip|200442bf2e2c27177c3da91ad54c7e09
@@ -18,12 +18,46 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|812cfccfaf9b437d4da063c3d7992f48
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|9b5c9640442c8dcbb29abf15561ec4be
-/DataTable/en-gb/NDItemCash.edf.zip|ace110cbda3fd0777b3d698a06d69b25
+/DataTable/en-gb/NDItem.edf.zip|5d091f6dfef4cf715bafee07aa8d261b
+/DataTable/en-gb/NDItemCash.edf.zip|98137313bb903bd691d8455d733256b8
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
-/DataTable/en-gb/NDMap.edf.zip|3d05898b01b9a58dc6fe05651861d1b6
+/DataTable/en-gb/NDMap.edf.zip|1754737248ec7caf623e29795f32a9e4
 /DataTable/en-gb/NDMsgEvent.edf.zip|d365120797d2c450a88460b751a1537c
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|58d18bacd04cb8a551124329cee48b7a
 /DataTable/en-gb/NDSkillForce.edf.zip|85939cc84fa206dca062446195257894
 /DataTable/en-gb/NDStore.edf.zip|36086b129bd8326795c95f2dce96147c
+/Map/Elan/Elan.BSP.zip|61c9fa65688e9ae03c92b65a6619a1d1
+/Map/Elan/Elan.ebp.zip|0e62a195e88d6a40d5e040162bc67f8c
+/Map/Elan/Elan.r3m.zip|438e722a0cdcc3dda6d1d34cacfd8256
+/Map/Elan/Elan.r3t.zip|ecf1f169ef98552d0b6357a8344133df
+/Map/Elan/ElanLgt.r3t.zip|61fc991df30381b77c2cef6e3f3c73f3
+/Map/Elan/Sky/elansky.r3e.zip|04bb903294590fb1ea12c6a41268cc96
+/Map/Elan/Sky/elansky.r3m.zip|f4b85c964c5da6d2ca730b16fca1c5b0
+/Map/Elan/Sky/elansky.r3t.zip|602826174e2816705904e59c680c217f
+/Map/Elan/Sky2/elansky2.r3e.zip|c7ed90b37f1916c5209d0bbb487decea
+/Map/Elan/Sky2/elansky2.r3m.zip|9256ab9903c32e7aec2248c40ea375d1
+/Map/Elan/Sky2/elansky2.r3t.zip|b295af63fc88e2520f189b514630ca7d
+/Map/Elan/elan.r3x.zip|4476ed76882b6413664f481a2c70fb84
+/Map/Elan/elanEXT.spt.zip|9f25f6b64637f1d70e4ceba1723c12b3
+/Map/Sette/Sette.bsp.zip|de7121f48d2379e9c8f09c4b2aeb0758
+/Map/Sette/Sette.ebp.zip|9b0d5ba9c119b619a632f5132c62fe68
+/Map/Sette/Sette.mel.zip|0c34496e07d30f0885c8bee336338b95
+/Map/Sette/Sette.r3m.zip|2c62f98cee42e33ef5590659cd8108cb
+/Map/Sette/Sette.r3t.zip|79da4af05c156c81b8968f945f30dc3c
+/Map/Sette/Sette.r3x.zip|ad6cb8a3151602d46f2f7e4a006172df
+/Map/Sette/SetteLgt.mtf.zip|302d52a899e79641884fe26b988bea7e
+/Map/Sette/SetteLgt.r3t.zip|9a40a4cce56520637d85c45a4515532a
+/Map/Sette/Sky/New folder/Settesky.r3e.zip|1181df94b85d96ff2504e0b6929ce115
+/Map/Sette/Sky/New folder/Settesky.r3m.zip|b26e9c4b34d16f713f1e248788795259
+/Map/Sette/Sky/New folder/Settesky.r3t.zip|652c65e0a9971c3e60a23f4c73405658
+/Map/Sette/Sky/Settesky.r3e.zip|05aece1c3d0d2349b0534f5641f2d59e
+/Map/Sette/Sky/Settesky.r3m.zip|b60327535fd88e36245e2f4e671e5f90
+/Map/Sette/Sky/Settesky.r3t.zip|e2930391152d90ff09a331dadbc0cfd2
+/Map/Sette/setteEXT.spt.zip|7ce7f161094ce7b574521d9e2cb47286
+/Map/Sette/sky2/New folder/Settesky2.r3e.zip|90ae78d68b26fa44f7896478beeb9a02
+/Map/Sette/sky2/New folder/Settesky2.r3m.zip|ca3f2ece28af65ff1834e4f12e2aad2a
+/Map/Sette/sky2/New folder/Settesky2.r3t.zip|d601878067d874b9993dfd39bd2c8d05
+/Map/Sette/sky2/Settesky2.r3e.zip|597cb7aeccb9f0d78a0ecd6660f65ffb
+/Map/Sette/sky2/Settesky2.r3m.zip|4cd2268b5b999a427c3f171e0379b664
+/Map/Sette/sky2/Settesky2.r3t.zip|273d217a8867f4169e4f4e55c3cc6784
