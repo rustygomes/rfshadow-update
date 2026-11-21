@@ -1,6 +1,6 @@
 /Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_04.EFF.zip|34a6463d5e936575df20a6da62ddaad5
 /Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_05.EFF.zip|7ac0b01e3d3a0be55e8ae8be16e3f894
-/Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_06.EFF.zip|efa07d4221b47bcc85f7e35786139581
+/Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_06.EFF.zip|f1610528f9eca46a9d638ebfc3de9588
 /Chef/GradeEffect/Agrade.dds.zip|3a4a553381cb4a2b5c04733dd8792805
 /Chef/GradeEffect/Bgrade.dds.zip|f2f9bbf6dc8c0e0f1670d1f984d1ff12
 /Chef/GradeEffect/Cgrade.dds.zip|c342fc8dfcdac52923c6f7f5a8ad6bea
@@ -36,8 +36,10 @@
 /DataTable/en-gb/NDSkillForce.edf.zip|85939cc84fa206dca062446195257894
 /DataTable/en-gb/NDStore.edf.zip|99aeef91e6e6a232eee03bc66032748a
 /Effect/effectfont.dds.zip|4362bc124da1a2bce7e0b95840c6dd8a
-/Item/Armor/Tex/Cloak_2026_5.RFT.zip|f0f3010485a41014370306f9dec668eb
-/Item/Armor/Tex/Cloak_2026_5.dds.zip|861bb30fbc3db7a7664d30c6d1f9e3b7
+/Item/Armor/Mesh/CORFEMALE_ARMOR_CLOAK_0A8.msh.zip|8a4ee99d329c6b32a1190710efc92682
+/Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_0A8.msh.zip|9c00fd989dbad1791e7cd95ff53e1828
+/Item/Armor/Tex/Cloak_2026_5.RFT.zip|74d09d7fbbc3f388a2a1725097b83f58
+/Item/Armor/Tex/Cloak_2026_5.dds.zip|277d260c92306d2c3b622c803727f9f3
 /Map/Elan/Elan.BSP.zip|61c9fa65688e9ae03c92b65a6619a1d1
 /Map/Elan/Elan.ebp.zip|0e62a195e88d6a40d5e040162bc67f8c
 /Map/Elan/Elan.r3m.zip|438e722a0cdcc3dda6d1d34cacfd8256
