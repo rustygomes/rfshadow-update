@@ -18,7 +18,7 @@
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/PlayerCharacter.edf.zip|acd535312355dd45626b0e564415430f
 /DataTable/Quest.edf.zip|1d7f972984c75e666cbfdb7df4e3a6ed
-/DataTable/Resource.edf.zip|d6b6d00cc2cf6726558f59ad935bdb35
+/DataTable/Resource.edf.zip|39e7a70b48f73f19eed175f23556b3f0
 /DataTable/SkillForce.edf.zip|c8728962ac5c8dc02cc9f7f327d92497
 /DataTable/Store.edf.zip|a6a5d8ddeee3a812aaca64e34f0402ef
 /DataTable/en-gb/KeyMap.dat.zip|d0e4425980e639af4894d590b5f57c20
@@ -36,6 +36,8 @@
 /DataTable/en-gb/NDSkillForce.edf.zip|85939cc84fa206dca062446195257894
 /DataTable/en-gb/NDStore.edf.zip|99aeef91e6e6a232eee03bc66032748a
 /Effect/effectfont.dds.zip|4362bc124da1a2bce7e0b95840c6dd8a
+/Item/Armor/Tex/Cloak_2026_5.RFT.zip|227dcc52594a86778d89a73a74a7d1db
+/Item/Armor/Tex/Cloak_2026_5.dds.zip|1cf90e50c9b68651f40ea17061f8cfa4
 /Map/Elan/Elan.BSP.zip|61c9fa65688e9ae03c92b65a6619a1d1
 /Map/Elan/Elan.ebp.zip|0e62a195e88d6a40d5e040162bc67f8c
 /Map/Elan/Elan.r3m.zip|438e722a0cdcc3dda6d1d34cacfd8256
