@@ -75,12 +75,17 @@
 /Map/Sette/sky2/Settesky2.r3m.zip|4cd2268b5b999a427c3f171e0379b664
 /Map/Sette/sky2/Settesky2.r3t.zip|273d217a8867f4169e4f4e55c3cc6784
 /Snooper.dll.zip|81db5d56ea379dd1b878dc4c6747c04b
+/Snooper/enchant.dat.zip|cb719fadc55059822777822928f53708
+/Snooper/enchantexplicit.dat.zip|66ec57ab0e62099871d616155c1e6dc9
+/Snooper/fastcombine.dat.zip|4cecc9869b1695b03fe7ab26d8985380
 /Snooper/mod/macro_cure.ini.zip|8d2930ccac4f8db4e27392bf567ef9cc
 /Snooper/mod/options.ini.zip|e8e4732fc4582c2c594ff7f6118af5ca
 /Snooper/mod/system_message.ini.zip|67d61f8e7e61ab39d176234f41161182
 /Snooper/mod/ui_colors.ini.zip|f502b59728d78eed83118672aa769800
 /Snooper/mod/ui_globals.ini.zip|c2b540b0f95655f4b60775fc5c39de8f
 /Snooper/mod/ui_mods.ini.zip|4b01e79f0a3a2b4f02baf8d06333f0ce
+/Snooper/socketitem.dat.zip|898968c2a5a2dbe0f69850ec1d298d1e
+/Snooper/transferlimit.dat.zip|ed0cdc32cb332de20da5e88c74c30367
 /Snooper/transmutation.dat.zip|17d165ee0587bbe9c66159e0871cfce5
 /SpriteImage/common/Etc.spr.zip|f4420c823ca028db8a0a383bd2c90ed1
 /SpriteImage/common/Mods.spr.zip|a01535bad8f21fcf8eff16d9145ae831
