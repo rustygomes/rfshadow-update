@@ -8,7 +8,7 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|aa0d4f0fc16c2eac4d938bd1f256ffad
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|1fb4bf0947a17eafff867c6921284b2d
+/DataTable/Item.edf.zip|a1211c1ab1ffb6707ac606e007035b25
 /DataTable/ItemCash.edf.zip|8ee66adcfb9a6d4e61b1eeff23e1f12c
 /DataTable/ItemCombine.edf.zip|3749669ef0374f0e09bf6bf0cdcd103e
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
@@ -20,13 +20,13 @@
 /DataTable/Quest.edf.zip|1d7f972984c75e666cbfdb7df4e3a6ed
 /DataTable/Resource.edf.zip|faedce7cda83ca82f2b3389438d4fab8
 /DataTable/SkillForce.edf.zip|3283158a574f146330ca9d778691504e
-/DataTable/Store.edf.zip|d7ddfc101c0e808d5c03e153f5ef0f1e
+/DataTable/Store.edf.zip|a0c8ae02ad90049816b8bd6d447e778e
 /DataTable/en-gb/KeyMap.dat.zip|8fbea975124908e8ccb7f197c1d6182c
 /DataTable/en-gb/KeyMap_NKM.dat.zip|d589867efd0823e5bab90af31fae5674
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|8bee292cbe225c52d26e403a163919a3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|15cf77b0d1e33ed6dc5a23f5d69b590e
+/DataTable/en-gb/NDItem.edf.zip|605bcabd796c6810e1e41a93d7560361
 /DataTable/en-gb/NDItemCash.edf.zip|4b8b69be4d5fa8e677b9f7a9d1b97183
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -34,7 +34,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|6b0c8ab98c9f8dcd4bd2ae8ebe6b3db2
 /DataTable/en-gb/NDSkillForce.edf.zip|5b919be744c7eb1309f7c8736404200c
-/DataTable/en-gb/NDStore.edf.zip|f247efac19e969456c6df30d54935c30
+/DataTable/en-gb/NDStore.edf.zip|7f4be964e209343821dde356107442ee
 /Effect/effectfont.dds.zip|4362bc124da1a2bce7e0b95840c6dd8a
 /Item/Armor/Mesh/CORFEMALE_ARMOR_CLOAK_0A8.msh.zip|8a4ee99d329c6b32a1190710efc92682
 /Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_0A8.msh.zip|9c00fd989dbad1791e7cd95ff53e1828
