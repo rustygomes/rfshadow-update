@@ -8,7 +8,7 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|cce47a747d0858a0819bb3ac291563a1
+/DataTable/Item.edf.zip|248c171bff52543c4572f1cb28ca66c8
 /DataTable/ItemCash.edf.zip|8ee66adcfb9a6d4e61b1eeff23e1f12c
 /DataTable/ItemCombine.edf.zip|3749669ef0374f0e09bf6bf0cdcd103e
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
@@ -26,7 +26,7 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|5f24b66bd58acc3fdd4e14e391d00903
+/DataTable/en-gb/NDItem.edf.zip|6dcecbe268a8e87f19b2d230b66d2ad5
 /DataTable/en-gb/NDItemCash.edf.zip|4b8b69be4d5fa8e677b9f7a9d1b97183
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -40,6 +40,9 @@
 /Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_0A8.msh.zip|9c00fd989dbad1791e7cd95ff53e1828
 /Item/Armor/Tex/Cloak_2026_5.RFT.zip|74d09d7fbbc3f388a2a1725097b83f58
 /Item/Armor/Tex/Cloak_2026_5.dds.zip|277d260c92306d2c3b622c803727f9f3
+/Item/Weapon/Mesh/COM_WEAPON_RKNIFETHROW_FISH.MSH.zip|43f57d0249fbcb687232ffa5a65c8efa
+/Item/Weapon/Mesh/COM_WEAPON_RKNIFETHROW_X2025.MSH.zip|62e9c5e2f55df2a64b3fe03030a66039
+/Item/Weapon/Mesh/QG_WEAPON_RKNIFETHROW_ABYSSAL.msh.zip|a68ef79ad28e64305d38f0501d255b74
 /Map/AccGSD/AccGSD.bsp.zip|84ca272feda0e0ad9c9044bf2da6762f
 /Map/AccGSD/AccGSD.ebp.zip|38c945fa55eeef2fda6c10dc4dca3003
 /Map/AccGSD/AccGSD.r3m.zip|b0251dfe2002c7c7f6c2e2334be079aa
