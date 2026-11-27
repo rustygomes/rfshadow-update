@@ -1,3 +1,5 @@
+/Character/Unit/Mesh/CATAPULT_SHOULDER_SN.msh.zip|0e09e547f3baf1990d83ae87cec6be68
+/Character/Unit/Tex/CATAPULT_SHOULDER_139.dds.zip|ff4eedb84740aa2cb83e2cdde1042b84
 /Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_04.EFF.zip|34a6463d5e936575df20a6da62ddaad5
 /Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_05.EFF.zip|7ac0b01e3d3a0be55e8ae8be16e3f894
 /Chef/Eff/skin/Cloak/DSH/Cloak_Cloak_06.EFF.zip|f1610528f9eca46a9d638ebfc3de9588
@@ -8,7 +10,7 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|8fe90e2879a834018a0e5c283820a985
+/DataTable/Item.edf.zip|25d9f53c5768279c0ffeaba56a80a309
 /DataTable/ItemCash.edf.zip|596394a1adbe9a1135ba0847e392f7ee
 /DataTable/ItemCombine.edf.zip|3749669ef0374f0e09bf6bf0cdcd103e
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
@@ -18,7 +20,7 @@
 /DataTable/MsgEvent.edf.zip|b5c7a6bbedc9a0e6da2c380808e16f62
 /DataTable/PlayerCharacter.edf.zip|acd535312355dd45626b0e564415430f
 /DataTable/Quest.edf.zip|1d7f972984c75e666cbfdb7df4e3a6ed
-/DataTable/Resource.edf.zip|faedce7cda83ca82f2b3389438d4fab8
+/DataTable/Resource.edf.zip|af506d42095791371a0ee3a0cba38222
 /DataTable/SkillForce.edf.zip|237bdf2c2577ed8848b411b4fa9f0e9e
 /DataTable/Store.edf.zip|d0c277135cf68440541e0f5196bf7ae9
 /DataTable/en-gb/KeyMap.dat.zip|8fbea975124908e8ccb7f197c1d6182c
@@ -26,7 +28,7 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|956bb1f4a4da78b90df05b08e1d219f8
+/DataTable/en-gb/NDItem.edf.zip|1c8f6784f76225ddfd32b297df2dc78d
 /DataTable/en-gb/NDItemCash.edf.zip|cac4e9de768faaa074b41617103ff823
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -257,4 +259,4 @@
 /SpriteImage/common/Loading/ARENA3.dds.zip|334e8f06d635de6cb98fe3a235cc4c54
 /SpriteImage/common/Mods.spr.zip|a01535bad8f21fcf8eff16d9145ae831
 /SpriteImage/common/item.spr.zip|a9842bfc07683ed02191b2d5201449dc
-/SpriteImage/common/unitparts.spr.zip|8597e27f842a57672e352752885cca6e
+/SpriteImage/common/unitparts.spr.zip|e34778124905fe7ff37c9354f93563c3
