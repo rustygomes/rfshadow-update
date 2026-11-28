@@ -10,9 +10,9 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|8c961eb27c69bbb419768c607018fad3
+/DataTable/Item.edf.zip|a02a76e836f475fce7ede62f95ebac03
 /DataTable/ItemCash.edf.zip|596394a1adbe9a1135ba0847e392f7ee
-/DataTable/ItemCombine.edf.zip|feba4b76745f6caa7f356d85b439c418
+/DataTable/ItemCombine.edf.zip|cc1ca54333b32ed168fa2ffa1109cfe7
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
 /DataTable/ItemSetEffect.edf.zip|3642769834f9b695087ff3d50dd1f7d9
 /DataTable/ItemTimer.edf.zip|905e21d6c22baff0578169e4ad4fc40f
@@ -28,7 +28,7 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|4075d2752be48ec5ce3e6add74496e02
+/DataTable/en-gb/NDItem.edf.zip|aa4e83dea161a0e926af582141128e1c
 /DataTable/en-gb/NDItemCash.edf.zip|cac4e9de768faaa074b41617103ff823
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -258,5 +258,5 @@
 /SpriteImage/common/Etc.spr.zip|f4420c823ca028db8a0a383bd2c90ed1
 /SpriteImage/common/Loading/ARENA3.dds.zip|334e8f06d635de6cb98fe3a235cc4c54
 /SpriteImage/common/Mods.spr.zip|a01535bad8f21fcf8eff16d9145ae831
-/SpriteImage/common/item.spr.zip|a9842bfc07683ed02191b2d5201449dc
+/SpriteImage/common/item.spr.zip|a110fe2cfc690a7dfa925992a1a502a3
 /SpriteImage/common/unitparts.spr.zip|e34778124905fe7ff37c9354f93563c3
