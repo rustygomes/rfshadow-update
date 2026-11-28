@@ -10,9 +10,9 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|47e1c26ad82302d0b9f3898823fdb0b9
+/DataTable/Item.edf.zip|d750f184fe3f5bf9c82fbb6d31c308a0
 /DataTable/ItemCash.edf.zip|596394a1adbe9a1135ba0847e392f7ee
-/DataTable/ItemCombine.edf.zip|cc1ca54333b32ed168fa2ffa1109cfe7
+/DataTable/ItemCombine.edf.zip|83905adcba0367a4c90c146107762494
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
 /DataTable/ItemSetEffect.edf.zip|3642769834f9b695087ff3d50dd1f7d9
 /DataTable/ItemTimer.edf.zip|905e21d6c22baff0578169e4ad4fc40f
@@ -22,13 +22,13 @@
 /DataTable/Quest.edf.zip|7e4875a787eb80ec1dcac3fbcede1111
 /DataTable/Resource.edf.zip|af506d42095791371a0ee3a0cba38222
 /DataTable/SkillForce.edf.zip|6ffec638038dde610fa37a0463c7ebf0
-/DataTable/Store.edf.zip|d0c277135cf68440541e0f5196bf7ae9
+/DataTable/Store.edf.zip|ec134d7112f851b5134388bea37bb544
 /DataTable/en-gb/KeyMap.dat.zip|8fbea975124908e8ccb7f197c1d6182c
 /DataTable/en-gb/KeyMap_NKM.dat.zip|d589867efd0823e5bab90af31fae5674
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|1ea3a6d08219d08c427ee0e8f82c8372
+/DataTable/en-gb/NDItem.edf.zip|31a2191a6f0726012bae5fd7626fb219
 /DataTable/en-gb/NDItemCash.edf.zip|cac4e9de768faaa074b41617103ff823
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -36,7 +36,7 @@
 /DataTable/en-gb/NDMsgMonster.edf.zip|e0796e1657f0f5c666f5323932743c34
 /DataTable/en-gb/NDQuest.edf.zip|96721ff695696e0d84d72722ac022f0a
 /DataTable/en-gb/NDSkillForce.edf.zip|bcac530a4c350a678c3f2226da139015
-/DataTable/en-gb/NDStore.edf.zip|22e586a5a86b6cdc837b61aa17e14fda
+/DataTable/en-gb/NDStore.edf.zip|3f6d196fcde6bfbd53aa174afd1e9a37
 /Effect/effectfont.dds.zip|4362bc124da1a2bce7e0b95840c6dd8a
 /Item/Armor/Mesh/CORFEMALE_ARMOR_CLOAK_0A8.msh.zip|8a4ee99d329c6b32a1190710efc92682
 /Item/Armor/Mesh/CORMALE_ARMOR_CLOAK_0A8.msh.zip|9c00fd989dbad1791e7cd95ff53e1828
