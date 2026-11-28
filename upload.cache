@@ -10,9 +10,9 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|a8641a542bdbb8ea9c2712a248b051a3
+/DataTable/Item.edf.zip|8c961eb27c69bbb419768c607018fad3
 /DataTable/ItemCash.edf.zip|596394a1adbe9a1135ba0847e392f7ee
-/DataTable/ItemCombine.edf.zip|184e429da930c8ccf88d4c73a73bcd7b
+/DataTable/ItemCombine.edf.zip|feba4b76745f6caa7f356d85b439c418
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
 /DataTable/ItemSetEffect.edf.zip|3642769834f9b695087ff3d50dd1f7d9
 /DataTable/ItemTimer.edf.zip|905e21d6c22baff0578169e4ad4fc40f
@@ -28,7 +28,7 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|0c100bfdedd73e2b7919b8f71fd82c02
+/DataTable/en-gb/NDItem.edf.zip|4075d2752be48ec5ce3e6add74496e02
 /DataTable/en-gb/NDItemCash.edf.zip|cac4e9de768faaa074b41617103ff823
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
