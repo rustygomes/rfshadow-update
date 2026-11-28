@@ -10,7 +10,7 @@
 /Chef/ItemEffectList.txt.zip|d2bd29488f32b595dc41df37cd3ae8a3
 /DataTable/Character.edf.zip|724590d1fffcaf9d1847492e304b9d07
 /DataTable/EventShip.edf.zip|5dc0555aa81ef95fd118eb93ef303bba
-/DataTable/Item.edf.zip|a47de66bcad48dc431f775ce645fa8c8
+/DataTable/Item.edf.zip|a0e6b731a1e3c46643c68862329dae5f
 /DataTable/ItemCash.edf.zip|596394a1adbe9a1135ba0847e392f7ee
 /DataTable/ItemCombine.edf.zip|83905adcba0367a4c90c146107762494
 /DataTable/ItemPremium.edf.zip|76fab819f84a3e4ec699e1a5580ecd0b
@@ -28,7 +28,7 @@
 /DataTable/en-gb/MAPDATA.DAT.zip|ed76337ec79b4efd9011169b0e54bae8
 /DataTable/en-gb/NDCharacter.edf.zip|d0ea714275a6131abdc0da5811e543e3
 /DataTable/en-gb/NDEventShip.edf.zip|a648e0c522daa9abe903793255e9fb33
-/DataTable/en-gb/NDItem.edf.zip|74e9ce6d719cbd0d769a3d2279a07a1b
+/DataTable/en-gb/NDItem.edf.zip|df8c044fac46bf7b8a62dd63382967f6
 /DataTable/en-gb/NDItemCash.edf.zip|cac4e9de768faaa074b41617103ff823
 /DataTable/en-gb/NDLanguage.edf.zip|10bf9f6b20063dc5bc91e6f29493c6b5
 /DataTable/en-gb/NDMap.edf.zip|0793f66dbe27729e37780449cc2fc582
@@ -254,7 +254,7 @@
 /Snooper/mod/ui_mods.ini.zip|4b01e79f0a3a2b4f02baf8d06333f0ce
 /Snooper/socketitem.dat.zip|8ee45473d8eb101d8ea9d93f5d6ecec3
 /Snooper/transferlimit.dat.zip|ed0cdc32cb332de20da5e88c74c30367
-/Snooper/transmutation.dat.zip|50823241889eddbafc738a01e38e3e03
+/Snooper/transmutation.dat.zip|690ad417c634e76875d77d68e0eced0b
 /SpriteImage/common/Etc.spr.zip|f4420c823ca028db8a0a383bd2c90ed1
 /SpriteImage/common/Loading/ARENA3.dds.zip|334e8f06d635de6cb98fe3a235cc4c54
 /SpriteImage/common/Mods.spr.zip|a01535bad8f21fcf8eff16d9145ae831
